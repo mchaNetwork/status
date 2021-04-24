@@ -1,0 +1,54 @@
+owner: mchaNetwork
+repo: status
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipPoweredByReadme: true
+
+commitMessages:
+  commitAuthorName: "mochaaP Bot"
+  commitAuthorEmail: "git-bot@mochaa.ws"
+
+sites:
+  - name: Homepage
+    url: https://mochaa.ws
+  - name: Vault
+    url: https://vault.mcha.cloud
+  - name: Insights
+    url: https://insights.mcha.cloud
+  - name: Support
+    url: https://chat.mcha.cloud
+  - name: GitHub Mirror
+    url: https://gh.chapro.xyz
+  - name: OpenWrt Mirror
+    url: https://mirrors.chapro.xyz/openwrt/
+  - name: Wikipedia Mirror
+    url: http://www.wp.chapro.xyz/
+  - name: Captive Portal
+    url: https://captive.mcha.cloud/generate/android
+    expectedStatusCodes:
+      - 204
+
+assignees:
+  - mochaaP
+
+status-website:
+  cname: status.mcha.cloud
+  theme: dark
+  logoUrl: https://raw.fastgit.org/mchaNetwork/assets/master/img/branding/network.png
+  name: mochaaNetwork
+  introTitle: "mochaaNetwork System Status"
+  introMessage: |
+    **What is this page?**
+    mochaaNetwork provides open and flexible to users via its global network. This is the system status for the mochaaNetwork service, both edge network and public services.
+  navbar:
+    - title: Status
+      href: /
+    - title: Homepage
+      href: https://mochaa.ws/
+  customBodyHtml: '<script>(function(d,t){var BASE_URL="https://chat.mcha.cloud";var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.src=BASE_URL+"/packs/js/sdk.js";s.parentNode.insertBefore(g,s);g.onload=function(){window.chatwootSDK.run({websiteToken:"TTa48xn26hMeMjyUC7G71yRP",baseUrl:BASE_URL})}})(document,"script");</script><noscript><img src="https://insights.mcha.cloud/ingress/44dfff8b-c8b8-4681-a206-1bd4c8eae09a/pixel.gif"></noscript> <script defer src="https://insights.mcha.cloud/ingress/44dfff8b-c8b8-4681-a206-1bd4c8eae09a/script.js"></script>'
+
+user-agent: mchaNtwk
+
+i18n:
+  footer: © mochaaNetwork
