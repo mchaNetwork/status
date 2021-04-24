@@ -38,7 +38,7 @@ assignees:
 
 status-website:
   cname: status.mcha.cloud
-  themeUrl: https://raw.fastgit.org/mchaNetwork/assets/master/status/style.css
+  themeUrl: https://assets.mcha.network/status/style.css
   logoUrl: https://raw.fastgit.org/mchaNetwork/assets/master/img/branding/network.png
   favicon: https://raw.fastgit.org/mchaNetwork/assets/master/status/favicon.png
   name: mochaaNetwork
