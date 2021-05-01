@@ -22,19 +22,19 @@
     "url": "https://vault.mcha.cloud",
     "icon": "https://favicons.githubusercontent.com/vault.mcha.cloud",
     "slug": "vault",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 379,
-    "timeDay": 530,
-    "timeWeek": 513,
-    "timeMonth": 379,
-    "timeYear": 379,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 372,
+    "timeDay": 437,
+    "timeWeek": 484,
+    "timeMonth": 372,
+    "timeYear": 372,
     "dailyMinutesDown": {
-      "2021-05-01": 0
+      "2021-05-01": 19
     }
   },
   {
