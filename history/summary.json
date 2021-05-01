@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 379,
     "timeDay": 374,
-    "timeWeek": 379,
+    "timeWeek": 403,
     "timeMonth": 379,
     "timeYear": 379,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://vault.mcha.cloud",
     "icon": "https://favicons.githubusercontent.com/vault.mcha.cloud",
     "slug": "vault",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 771,
-    "timeWeek": 385,
-    "timeMonth": 385,
-    "timeYear": 385,
-    "dailyMinutesDown": {}
+    "time": 379,
+    "timeDay": 530,
+    "timeWeek": 513,
+    "timeMonth": 379,
+    "timeYear": 379,
+    "dailyMinutesDown": {
+      "2021-05-01": 0
+    }
   },
   {
     "name": "Insights",
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 1648,
     "timeDay": 1867,
-    "timeWeek": 1648,
+    "timeWeek": 1696,
     "timeMonth": 1648,
     "timeYear": 1648,
     "dailyMinutesDown": {}
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 275,
     "timeDay": 229,
-    "timeWeek": 275,
+    "timeWeek": 346,
     "timeMonth": 275,
     "timeYear": 275,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 282,
     "timeDay": 248,
-    "timeWeek": 282,
+    "timeWeek": 319,
     "timeMonth": 282,
     "timeYear": 282,
     "dailyMinutesDown": {}
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 795,
     "timeDay": 1173,
-    "timeWeek": 795,
+    "timeWeek": 943,
     "timeMonth": 795,
     "timeYear": 795,
     "dailyMinutesDown": {}
@@ -113,14 +115,14 @@
     "icon": "https://favicons.githubusercontent.com/www.wp.chapro.xyz",
     "slug": "wikipedia-mirror",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
     "time": 377,
     "timeDay": 433,
-    "timeWeek": 377,
+    "timeWeek": 384,
     "timeMonth": 377,
     "timeYear": 377,
     "dailyMinutesDown": {
@@ -140,7 +142,7 @@
     "uptimeYear": "100.00%",
     "time": 148,
     "timeDay": 92,
-    "timeWeek": 148,
+    "timeWeek": 188,
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {}
