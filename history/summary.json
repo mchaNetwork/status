@@ -4,19 +4,19 @@
     "url": "https://mochaa.ws",
     "icon": "https://avatars.githubusercontent.com/u/21154023",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 1184,
-    "timeWeek": 556,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 539,
+    "timeDay": 1719,
+    "timeWeek": 804,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2021-05-07": 0
+      "2021-05-07": 51
     }
   },
   {
