@@ -4,9 +4,9 @@
     "url": "https://mochaa.ws",
     "icon": "https://avatars.githubusercontent.com/u/21154023",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.60%",
@@ -16,6 +16,7 @@
     "timeMonth": 501,
     "timeYear": 501,
     "dailyMinutesDown": {
+      "2021-05-10": 0,
       "2021-05-07": 93
     }
   },
