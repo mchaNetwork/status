@@ -5,11 +5,11 @@
     "icon": "https://avatars.githubusercontent.com/u/21154023",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
     "time": 921,
     "timeDay": 335,
     "timeWeek": 1457,
@@ -46,9 +46,9 @@
     "url": "https://insights.mcha.cloud",
     "icon": "https://insights.mcha.cloud/static/dashboard/images/icon.00463752afd0.png",
     "slug": "insights",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 1644,
     "timeMonth": 1675,
     "timeYear": 1675,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-19": 0
+    }
   },
   {
     "name": "Support",
