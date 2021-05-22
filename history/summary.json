@@ -64,19 +64,19 @@
     "url": "https://chat.mcha.cloud",
     "icon": "https://favicons.githubusercontent.com/chat.mcha.cloud",
     "slug": "support",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 274,
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "75.68%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
+    "time": 273,
     "timeDay": 221,
-    "timeWeek": 241,
-    "timeMonth": 274,
-    "timeYear": 274,
+    "timeWeek": 239,
+    "timeMonth": 273,
+    "timeYear": 273,
     "dailyMinutesDown": {
-      "2021-05-22": 0
+      "2021-05-22": 350
     }
   },
   {
