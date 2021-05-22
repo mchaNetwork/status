@@ -64,18 +64,20 @@
     "url": "https://chat.mcha.cloud",
     "icon": "https://favicons.githubusercontent.com/chat.mcha.cloud",
     "slug": "support",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 210,
-    "timeWeek": 242,
-    "timeMonth": 275,
-    "timeYear": 275,
-    "dailyMinutesDown": {}
+    "time": 274,
+    "timeDay": 221,
+    "timeWeek": 241,
+    "timeMonth": 274,
+    "timeYear": 274,
+    "dailyMinutesDown": {
+      "2021-05-22": 0
+    }
   },
   {
     "name": "GitHub Mirror",
