@@ -1,7 +1,7 @@
 url: https://insights.mcha.cloud
-status: up
-code: 200
-responseTime: 1585
-lastUpdated: 2021-06-10T23:08:03.493Z
+status: down
+code: 502
+responseTime: 3346
+lastUpdated: 2021-06-11T09:47:13.579Z
 startTime: Sat Apr 24 2021 02:29:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
