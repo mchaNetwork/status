@@ -1,7 +1,7 @@
 url: https://mirrors.chapro.xyz/openwrt/
-status: down
-code: 403
-responseTime: 121
-lastUpdated: 2022-06-16T22:48:48.806Z
+status: up
+code: 200
+responseTime: 804
+lastUpdated: 2022-06-16T22:53:56.941Z
 startTime: Sat Apr 24 2021 02:29:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
