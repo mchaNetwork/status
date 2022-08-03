@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
-    "time": 369,
-    "timeDay": 1314,
-    "timeWeek": 361,
-    "timeMonth": 308,
+    "time": 368,
+    "timeDay": 167,
+    "timeWeek": 351,
+    "timeMonth": 307,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2022-07-18": 23,
@@ -41,10 +41,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.00%",
     "time": 386,
-    "timeDay": 547,
-    "timeWeek": 565,
-    "timeMonth": 514,
-    "timeYear": 409,
+    "timeDay": 564,
+    "timeWeek": 560,
+    "timeMonth": 541,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2022-07-01": 72,
       "2022-06-30": 50,
@@ -71,18 +71,19 @@
     "icon": "https://insights.mcha.cloud/static/dashboard/images/icon.00463752afd0.png",
     "slug": "insights",
     "status": "down",
-    "uptime": "18.45%",
+    "uptime": "18.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "1.09%",
-    "time": 2806,
+    "time": 2811,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1543,
+    "timeYear": 1530,
     "dailyMinutesDown": {
-      "2022-08-02": 154,
+      "2022-08-03": 139,
+      "2022-08-02": 1440,
       "2022-08-01": 1440,
       "2022-07-31": 1440,
       "2022-07-30": 1440,
@@ -443,8 +444,7 @@
       "2021-08-07": 1440,
       "2021-08-06": 1440,
       "2021-08-05": 1440,
-      "2021-08-04": 1440,
-      "2021-08-03": 1440
+      "2021-08-04": 1440
     }
   },
   {
@@ -453,7 +453,7 @@
     "icon": "https://favicons.githubusercontent.com/chat.mcha.cloud",
     "slug": "support",
     "status": "down",
-    "uptime": "20.27%",
+    "uptime": "20.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -462,9 +462,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3085,
+    "timeYear": 3101,
     "dailyMinutesDown": {
-      "2022-08-02": 154,
+      "2022-08-03": 139,
+      "2022-08-02": 1440,
       "2022-08-01": 1440,
       "2022-07-31": 1440,
       "2022-07-30": 1440,
@@ -827,8 +828,7 @@
       "2021-08-07": 1440,
       "2021-08-06": 1440,
       "2021-08-05": 1440,
-      "2021-08-04": 1440,
-      "2021-08-03": 1440
+      "2021-08-04": 1440
     }
   },
   {
@@ -843,9 +843,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 166,
-    "timeDay": 47,
-    "timeWeek": 172,
-    "timeMonth": 125,
+    "timeDay": 100,
+    "timeWeek": 174,
+    "timeMonth": 128,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2022-07-01": 72,
@@ -866,16 +866,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 783,
-    "timeDay": 447,
-    "timeWeek": 614,
-    "timeMonth": 661,
-    "timeYear": 790,
+    "timeDay": 485,
+    "timeWeek": 607,
+    "timeMonth": 695,
+    "timeYear": 789,
     "dailyMinutesDown": {
       "2022-07-01": 72,
       "2022-06-30": 50,
       "2022-06-29": 15,
-      "2022-06-21": 36,
-      "2021-08-03": 17
+      "2022-06-21": 36
     }
   },
   {
@@ -890,9 +889,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.13%",
     "time": 382,
-    "timeDay": 513,
-    "timeWeek": 381,
-    "timeMonth": 350,
+    "timeDay": 401,
+    "timeWeek": 376,
+    "timeMonth": 352,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2022-06-18": 17,
@@ -926,9 +925,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 111,
-    "timeDay": 85,
-    "timeWeek": 81,
-    "timeMonth": 100,
+    "timeDay": 66,
+    "timeWeek": 77,
+    "timeMonth": 102,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2022-07-01": 72,
