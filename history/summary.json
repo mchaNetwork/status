@@ -6,15 +6,15 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.79%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
-    "time": 350,
-    "timeDay": 1255,
-    "timeWeek": 588,
-    "timeMonth": 375,
-    "timeYear": 301,
+    "time": 333,
+    "timeDay": 100,
+    "timeWeek": 538,
+    "timeMonth": 372,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2022-10-12": 17,
       "2022-08-30": 20,
@@ -36,18 +36,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.mcha.cloud.ico",
     "slug": "vault",
     "status": "down",
-    "uptime": "89.85%",
+    "uptime": "89.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "85.07%",
+    "uptimeYear": "84.80%",
     "time": 394,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 454,
+    "timeYear": 455,
     "dailyMinutesDown": {
-      "2022-10-13": 157,
+      "2022-10-14": 169,
+      "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
       "2022-10-10": 1440,
@@ -111,8 +112,7 @@
       "2022-01-06": 1440,
       "2022-01-05": 1440,
       "2022-01-04": 573,
-      "2021-10-26": 22,
-      "2021-10-14": 15
+      "2021-10-26": 22
     }
   },
   {
@@ -121,7 +121,7 @@
     "icon": "https://insights.mcha.cloud/static/dashboard/images/icon.00463752afd0.png",
     "slug": "insights",
     "status": "down",
-    "uptime": "15.97%",
+    "uptime": "15.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -130,9 +130,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1415,
+    "timeYear": 1395,
     "dailyMinutesDown": {
-      "2022-10-13": 157,
+      "2022-10-14": 169,
+      "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
       "2022-10-10": 1440,
@@ -495,8 +496,7 @@
       "2021-10-18": 1440,
       "2021-10-17": 1440,
       "2021-10-16": 1440,
-      "2021-10-15": 1440,
-      "2021-10-14": 1440
+      "2021-10-15": 1440
     }
   },
   {
@@ -505,18 +505,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.mcha.cloud.ico",
     "slug": "support",
     "status": "down",
-    "uptime": "17.56%",
+    "uptime": "17.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2416,
+    "time": 2423,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3288,
+    "timeYear": 3289,
     "dailyMinutesDown": {
-      "2022-10-13": 157,
+      "2022-10-14": 169,
+      "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
       "2022-10-10": 1440,
@@ -879,8 +880,7 @@
       "2021-10-18": 1440,
       "2021-10-17": 1440,
       "2021-10-16": 1440,
-      "2021-10-15": 1440,
-      "2021-10-14": 1440
+      "2021-10-15": 1440
     }
   },
   {
@@ -895,8 +895,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 185,
-    "timeDay": 81,
-    "timeWeek": 121,
+    "timeDay": 77,
+    "timeWeek": 122,
     "timeMonth": 569,
     "timeYear": 165,
     "dailyMinutesDown": {
@@ -915,13 +915,13 @@
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.39%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 774,
-    "timeDay": 491,
-    "timeWeek": 641,
-    "timeMonth": 662,
-    "timeYear": 794,
+    "time": 773,
+    "timeDay": 500,
+    "timeWeek": 580,
+    "timeMonth": 642,
+    "timeYear": 756,
     "dailyMinutesDown": {
       "2022-09-13": 265,
       "2022-07-01": 72,
@@ -942,10 +942,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.13%",
     "time": 380,
-    "timeDay": 358,
-    "timeWeek": 342,
-    "timeMonth": 388,
-    "timeYear": 391,
+    "timeDay": 737,
+    "timeWeek": 365,
+    "timeMonth": 402,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2022-06-18": 17,
       "2022-06-17": 34,
@@ -962,8 +962,7 @@
       "2022-01-06": 1440,
       "2022-01-05": 1440,
       "2022-01-04": 570,
-      "2021-10-26": 19,
-      "2021-10-14": 16
+      "2021-10-26": 19
     }
   },
   {
@@ -978,10 +977,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 110,
-    "timeDay": 67,
+    "timeDay": 94,
     "timeWeek": 90,
-    "timeMonth": 111,
-    "timeYear": 106,
+    "timeMonth": 112,
+    "timeYear": 105,
     "dailyMinutesDown": {
       "2022-07-01": 72,
       "2022-06-30": 50
