@@ -1,7 +1,7 @@
 url: https://mochaa.ws
-status: up
-code: 200
-responseTime: 169
-lastUpdated: 2022-12-07T23:09:30.035Z
+status: down
+code: 500
+responseTime: 3146
+lastUpdated: 2022-12-08T05:58:14.942Z
 startTime: Sat Apr 24 2021 02:29:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
