@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 329,
-    "timeDay": 140,
-    "timeWeek": 164,
-    "timeMonth": 480,
+    "timeDay": 331,
+    "timeWeek": 181,
+    "timeMonth": 483,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2022-12-08": 16,
@@ -35,18 +35,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.mcha.cloud.ico",
     "slug": "vault",
     "status": "down",
-    "uptime": "77.58%",
+    "uptime": "77.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "62.20%",
     "time": 393,
-    "timeDay": 483,
-    "timeWeek": 335,
-    "timeMonth": 273,
+    "timeDay": 400,
+    "timeWeek": 356,
+    "timeMonth": 279,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2023-01-06": 102,
+      "2023-01-07": 98,
+      "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
@@ -190,8 +191,7 @@
       "2022-03-18": 1213,
       "2022-01-10": 656,
       "2022-01-09": 1440,
-      "2022-01-08": 1440,
-      "2022-01-07": 1440
+      "2022-01-08": 1440
     }
   },
   {
@@ -200,7 +200,7 @@
     "icon": "https://insights.mcha.cloud/static/dashboard/images/icon.00463752afd0.png",
     "slug": "insights",
     "status": "down",
-    "uptime": "13.79%",
+    "uptime": "13.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -211,7 +211,8 @@
     "timeMonth": 0,
     "timeYear": 3259,
     "dailyMinutesDown": {
-      "2023-01-06": 102,
+      "2023-01-07": 98,
+      "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
@@ -574,8 +575,7 @@
       "2022-01-11": 1440,
       "2022-01-10": 1440,
       "2022-01-09": 1440,
-      "2022-01-08": 1440,
-      "2022-01-07": 1440
+      "2022-01-08": 1440
     }
   },
   {
@@ -584,7 +584,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.mcha.cloud.ico",
     "slug": "support",
     "status": "down",
-    "uptime": "15.16%",
+    "uptime": "15.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -595,7 +595,8 @@
     "timeMonth": 0,
     "timeYear": 3308,
     "dailyMinutesDown": {
-      "2023-01-06": 102,
+      "2023-01-07": 98,
+      "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
@@ -958,8 +959,7 @@
       "2022-01-11": 1440,
       "2022-01-10": 1440,
       "2022-01-09": 1440,
-      "2022-01-08": 1440,
-      "2022-01-07": 1440
+      "2022-01-08": 1440
     }
   },
   {
@@ -974,9 +974,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 166,
-    "timeDay": 66,
-    "timeWeek": 96,
-    "timeMonth": 120,
+    "timeDay": 203,
+    "timeWeek": 109,
+    "timeMonth": 122,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2022-07-01": 72,
@@ -995,10 +995,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 772,
-    "timeDay": 475,
-    "timeWeek": 718,
-    "timeMonth": 746,
+    "time": 771,
+    "timeDay": 598,
+    "timeWeek": 704,
+    "timeMonth": 734,
     "timeYear": 759,
     "dailyMinutesDown": {
       "2022-09-13": 265,
@@ -1014,18 +1014,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wp.chapro.xyz.ico",
     "slug": "wikipedia-mirror",
     "status": "down",
-    "uptime": "96.77%",
+    "uptime": "96.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.56%",
+    "uptimeMonth": "53.28%",
     "uptimeYear": "94.92%",
-    "time": 381,
-    "timeDay": 373,
-    "timeWeek": 366,
-    "timeMonth": 339,
+    "time": 382,
+    "timeDay": 533,
+    "timeWeek": 384,
+    "timeMonth": 353,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2023-01-06": 103,
+      "2023-01-07": 98,
+      "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
@@ -1051,8 +1052,7 @@
       "2022-03-01": 31,
       "2022-01-10": 658,
       "2022-01-09": 1440,
-      "2022-01-08": 1440,
-      "2022-01-07": 1440
+      "2022-01-08": 1440
     }
   },
   {
@@ -1067,10 +1067,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 108,
-    "timeDay": 72,
-    "timeWeek": 160,
-    "timeMonth": 123,
-    "timeYear": 107,
+    "timeDay": 66,
+    "timeWeek": 146,
+    "timeMonth": 118,
+    "timeYear": 106,
     "dailyMinutesDown": {
       "2022-07-01": 72,
       "2022-06-30": 50
