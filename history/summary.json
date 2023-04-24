@@ -44,7 +44,7 @@
     "timeMonth": 0,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2023-04-24": 1053,
+      "2023-04-24": 1063,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
@@ -311,7 +311,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-24": 1053,
+      "2023-04-24": 1063,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
@@ -695,7 +695,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-24": 1053,
+      "2023-04-24": 1063,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
@@ -1125,7 +1125,7 @@
     "timeMonth": 0,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2023-04-24": 1053,
+      "2023-04-24": 1064,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
@@ -1262,9 +1262,9 @@
     "url": "https://captive.mcha.cloud/generate/android",
     "icon": "https://icons.duckduckgo.com/ip3/captive.mcha.cloud.ico",
     "slug": "captive-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "90.89%",
+    "uptimeDay": "90.87%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.95%",
