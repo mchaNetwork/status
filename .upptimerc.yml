@@ -13,13 +13,9 @@ sites:
   - name: Homepage
     url: https://mochaa.ws
     icon: https://avatars.githubusercontent.com/u/21154023
-  - name: Vault
-    url: https://vault.mcha.cloud
   - name: Insights
     url: https://insights.mcha.cloud
     icon: https://insights.mcha.cloud/static/dashboard/images/icon.00463752afd0.png
-  - name: Support
-    url: https://chat.mcha.cloud
   - name: GitHub Mirror
     url: https://gh.chapro.xyz
     icon: https://favicons.githubusercontent.com/github.com
@@ -27,7 +23,7 @@ sites:
     url: https://mirrors.chapro.xyz/openwrt/
     icon: https://favicons.githubusercontent.com/wiki.openwrt.org
   - name: Wikipedia Mirror
-    url: http://www.wp.chapro.xyz/
+    url: https://wei-ji.eu.org/
   - name: Captive Portal
     url: https://captive.mcha.cloud/generate/android
     expectedStatusCodes:
@@ -39,21 +35,27 @@ assignees:
 status-website:
   cname: status.mcha.cloud
   themeUrl: https://assets.mcha.network/status/style.css
-  logoUrl: https://raw.fastgit.org/mchaNetwork/assets/master/img/branding/network.png
-  favicon: https://raw.fastgit.org/mchaNetwork/assets/master/status/favicon.png
+  logoUrl: https://assets.mcha.network/img/branding/network.png
+  favicon: https://assets.mcha.network/img/branding/favicon.png
   name: mochaaNetwork
   introTitle: "mochaaNetwork System Status"
   introMessage: |
-    **What is this page?**<br>
-    mochaaNetwork provides open and flexible to users via its global network. This is the system status for the mochaaNetwork service, both edge network and public services.
+    Welcome to the status monitor for public-facing mochaaNetwork services.
+    Here, you can check the current status of our services and get the latest
+    updates on any incidents or maintenance work that may impact our users.
+    Our goal is to keep you informed and minimize any disruptions to your
+    experience while using our services.
+    Feel free to bookmark this page or subscribe to our RSS feed. Thank you
+    for your patience and understanding.
   navbar:
     - title: Status
       href: /
     - title: Homepage
-      href: https://mochaa.ws/
-  customBodyHtml: '<script>(function(d,t){var BASE_URL="https://chat.mcha.cloud";var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.src=BASE_URL+"/packs/js/sdk.js";s.parentNode.insertBefore(g,s);g.onload=function(){window.chatwootSDK.run({websiteToken:"TTa48xn26hMeMjyUC7G71yRP",baseUrl:BASE_URL})}})(document,"script");</script><noscript><img src="https://insights.mcha.cloud/ingress/44dfff8b-c8b8-4681-a206-1bd4c8eae09a/pixel.gif"></noscript> <script defer src="https://insights.mcha.cloud/ingress/44dfff8b-c8b8-4681-a206-1bd4c8eae09a/script.js"></script>'
+      href: https://mcha.cloud/
+  customBodyHtml: '<script async src="https://insights.mcha.cloud/script.js" data-account-id="0a56e2d5-8ea5-4e46-a7ec-1e96361b392d"></script>'
 
 user-agent: mchaNtwk
 
 i18n:
   footer: © mochaaNetwork
+
