@@ -15,19 +15,12 @@ sites:
     icon: https://avatars.githubusercontent.com/u/21154023
   - name: Insights
     url: https://insights.mcha.cloud
-    icon: https://insights.mcha.cloud/static/dashboard/images/icon.00463752afd0.png
+    icon: https://insights.mcha.cloud/offen-icon-black.svg
   - name: GitHub Mirror
     url: https://gh.chapro.xyz
-    icon: https://favicons.githubusercontent.com/github.com
-  - name: OpenWrt Mirror
-    url: https://mirrors.chapro.xyz/openwrt/
-    icon: https://favicons.githubusercontent.com/wiki.openwrt.org
+    icon: https://github.githubassets.com/favicons/favicon.svg
   - name: Wikipedia Mirror
     url: https://wei-ji.eu.org/
-  - name: Captive Portal
-    url: https://captive.mcha.cloud/generate/android
-    expectedStatusCodes:
-      - 204
 
 assignees:
   - mochaaP
