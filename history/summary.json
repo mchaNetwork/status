@@ -5,18 +5,19 @@
     "icon": "https://avatars.githubusercontent.com/u/21154023",
     "slug": "homepage",
     "status": "down",
-    "uptime": "80.88%",
+    "uptime": "80.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.00%",
-    "time": 292,
+    "uptimeYear": "49.73%",
+    "time": 288,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2023-12-07": 79,
+      "2023-12-08": 80,
+      "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
@@ -200,8 +201,7 @@
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 590,
-      "2023-04-24": 27,
-      "2022-12-08": 16
+      "2023-04-24": 27
     }
   },
   {
@@ -210,14 +210,14 @@
     "icon": "https://insights.mcha.cloud/offen-icon-black.svg",
     "slug": "insights",
     "status": "up",
-    "uptime": "32.52%",
+    "uptime": "32.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.75%",
+    "uptimeYear": "62.03%",
     "time": 395,
-    "timeDay": 664,
-    "timeWeek": 582,
+    "timeDay": 262,
+    "timeWeek": 552,
     "timeMonth": 450,
     "timeYear": 395,
     "dailyMinutesDown": {
@@ -359,8 +359,7 @@
       "2022-12-12": 1440,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
-      "2022-12-09": 1440,
-      "2022-12-08": 1440
+      "2022-12-09": 1440
     }
   },
   {
@@ -375,9 +374,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 249,
-    "timeWeek": 173,
-    "timeMonth": 146,
+    "timeDay": 293,
+    "timeWeek": 151,
+    "timeMonth": 154,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2023-09-05": 15
@@ -389,16 +388,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wei-ji.eu.org.ico",
     "slug": "wikipedia-mirror",
     "status": "up",
-    "uptime": "81.12%",
+    "uptime": "81.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "52.38%",
-    "time": 737,
-    "timeDay": 1702,
-    "timeWeek": 995,
-    "timeMonth": 1022,
-    "timeYear": 999,
+    "time": 740,
+    "timeDay": 1797,
+    "timeWeek": 1198,
+    "timeMonth": 1066,
+    "timeYear": 1005,
     "dailyMinutesDown": {
       "2023-09-20": 226,
       "2023-09-19": 1440,
