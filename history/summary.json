@@ -5,18 +5,19 @@
     "icon": "https://avatars.githubusercontent.com/u/21154023",
     "slug": "homepage",
     "status": "down",
-    "uptime": "78.50%",
+    "uptime": "78.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.06%",
+    "uptimeYear": "41.79%",
     "time": 292,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 246,
+    "timeYear": 247,
     "dailyMinutesDown": {
-      "2024-01-05": 78,
+      "2024-01-06": 78,
+      "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
@@ -238,15 +239,15 @@
     "icon": "https://insights.mcha.cloud/offen-icon-black.svg",
     "slug": "insights",
     "status": "up",
-    "uptime": "34.50%",
+    "uptime": "34.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.70%",
+    "uptimeYear": "69.97%",
     "time": 409,
-    "timeDay": 829,
-    "timeWeek": 618,
-    "timeMonth": 516,
+    "timeDay": 267,
+    "timeWeek": 626,
+    "timeMonth": 514,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2023-07-26": 23,
@@ -358,8 +359,7 @@
       "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
-      "2023-01-07": 1440,
-      "2023-01-06": 1440
+      "2023-01-07": 1440
     }
   },
   {
@@ -374,9 +374,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 373,
+    "timeDay": 30,
     "timeWeek": 183,
-    "timeMonth": 188,
+    "timeMonth": 187,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2023-09-05": 15
@@ -388,15 +388,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wei-ji.eu.org.ico",
     "slug": "wikipedia-mirror",
     "status": "up",
-    "uptime": "81.67%",
+    "uptime": "81.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.72%",
+    "uptimeYear": "56.00%",
     "time": 772,
-    "timeDay": 1590,
-    "timeWeek": 486,
-    "timeMonth": 840,
+    "timeDay": 260,
+    "timeWeek": 469,
+    "timeMonth": 842,
     "timeYear": 1040,
     "dailyMinutesDown": {
       "2023-09-20": 226,
@@ -560,8 +560,7 @@
       "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
-      "2023-01-07": 1440,
-      "2023-01-06": 1440
+      "2023-01-07": 1440
     }
   }
 ]
