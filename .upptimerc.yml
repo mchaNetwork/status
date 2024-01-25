@@ -22,9 +22,7 @@ sites:
   - name: wakapi
     url: https://waka.mcha.cloud/api/health
     icon: https://raw.githubusercontent.com/muety/wakapi/master/static/assets/images/apple-touch-icon.png
-    __dangerous__body_degraded_if_text_missing: |
-      app=1
-      db=1
+    __dangerous__body_degraded_if_text_missing: "db=1"
   - name: GitHub Mirror
     url: https://gh.chapro.xyz
     icon: https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg
