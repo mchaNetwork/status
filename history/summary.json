@@ -386,19 +386,17 @@
     "icon": "https://raw.githubusercontent.com/muety/wakapi/master/static/assets/images/apple-touch-icon.png",
     "slug": "wakapi",
     "status": "up",
-    "uptime": "4.30%",
-    "uptimeDay": "4.30%",
-    "uptimeWeek": "4.30%",
-    "uptimeMonth": "4.30%",
-    "uptimeYear": "4.30%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 257,
     "timeDay": 257,
     "timeWeek": 257,
     "timeMonth": 257,
     "timeYear": 257,
-    "dailyMinutesDown": {
-      "2024-01-25": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GitHub Mirror",
