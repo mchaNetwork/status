@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2024-01-25": 1256,
+      "2024-01-25": 1259,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -441,18 +441,20 @@
     "url": "https://tui-te.eu.org/Jack/status/20",
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png",
     "slug": "twitter-mirror-nitter",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2718,
-    "timeDay": 2718,
-    "timeWeek": 2718,
-    "timeMonth": 2718,
-    "timeYear": 2718,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "97.71%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "97.71%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "97.71%",
+    "time": 2546,
+    "timeDay": 2546,
+    "timeWeek": 2546,
+    "timeMonth": 2546,
+    "timeYear": 2546,
+    "dailyMinutesDown": {
+      "2024-01-25": 0
+    }
   },
   {
     "name": "Reddit Mirror (Redlib)",
