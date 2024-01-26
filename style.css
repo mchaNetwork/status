@@ -1,0 +1,43 @@
+:root {
+  --body-background-color: #2E3440;
+  --body-text-color: #D8DEE9;
+  --card-background-color: #3B4252;
+  --nav-background-color: #3B4252;
+  --nav-border-bottom-color: #434C5E;
+  --nav-current-border-bottom-color: #8FBCBB;
+  --card-border-color: transparent;
+  --down-border-left-color: #BF616A;
+  --down-background-color: #D08770;
+  --degraded-border-left-color: #EBCB8B;
+  --up-border-left-color: #A3BE8C;
+  --tag-color: #002b29;
+  --tag-up-background-color: #A3BE8C;
+  --tag-down-background-color: #D08770;
+  --tag-degraded-background-color: #EBCB8B;
+  --change-background-color: #EBCB8B;
+  --error-button-border-color: transparent;
+  --error-button-background-color: #5E81AC;
+  --error-button-color: #D8DEE9;
+  --submit-button-border-color: transparent;
+  --submit-button-background-color: #5E81AC;
+  --submit-button-color: #D8DEE9;
+  --graph-opacity: 1;
+  --graph-filter: none;
+  --mono-font: "Jetbrains Mono", "SFMono-Regular", "Roboto Mono", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+body {
+  font-family: InterUI, -apple-system, BlinkMacSystemFont, "Helvetica Neue", Roboto, "Segoe UI", Oxygen, Ubuntu, Cantarell, "Open Sans", sans-serif !important;
+}
+
+article {
+  box-shadow: rgba(15, 17, 21, 0.2) 0px 3px 6px 0px;
+}
+
+article:hover {
+  box-shadow: rgba(15 17 21 / 20%) 0px 10px 20px 2px;
+}
+
+span.data {
+  font-family: var(--mono-font);
+}
