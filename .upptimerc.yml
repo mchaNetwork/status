@@ -45,8 +45,8 @@ assignees:
 
 status-website:
   cname: status.mcha.cloud
-  themeUrl: style.css
-  favicon: favicon.png
+  themeUrl: https://status.mcha.cloud/style.css
+  favicon: https://status.mcha.cloud/favicon.png
   logoUrl: https://avatars.githubusercontent.com/u/61316859
   name: monitar - mchantwk status
   navbar:
