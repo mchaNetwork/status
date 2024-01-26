@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2024-01-26": 1402,
+      "2024-01-26": 1408,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
@@ -441,19 +441,19 @@
     "url": "https://tui-te.eu.org/Jack/status/20",
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png",
     "slug": "twitter-mirror-nitter",
-    "status": "down",
-    "uptime": "91.54%",
-    "uptimeDay": "90.65%",
-    "uptimeWeek": "91.54%",
-    "uptimeMonth": "91.54%",
-    "uptimeYear": "91.54%",
-    "time": 1852,
-    "timeDay": 1700,
-    "timeWeek": 1852,
-    "timeMonth": 1852,
-    "timeYear": 1852,
+    "status": "up",
+    "uptime": "91.25%",
+    "uptimeDay": "90.30%",
+    "uptimeWeek": "91.25%",
+    "uptimeMonth": "91.25%",
+    "uptimeYear": "91.25%",
+    "time": 1855,
+    "timeDay": 1694,
+    "timeWeek": 1855,
+    "timeMonth": 1855,
+    "timeYear": 1855,
     "dailyMinutesDown": {
-      "2024-01-26": 134
+      "2024-01-26": 139
     }
   },
   {
