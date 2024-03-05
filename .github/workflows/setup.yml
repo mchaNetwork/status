@@ -68,5 +68,5 @@ jobs:
           github_token: ${{ secrets.GH_PAT || github.token }}
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
-          user_name: "mochaaP Bot"
+          user_name: "mcha0[bot]"
           user_email: "git-bot@mochaa.ws"
