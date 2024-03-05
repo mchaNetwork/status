@@ -6,7 +6,7 @@ skipTopicsUpdate: true
 skipPoweredByReadme: true
 
 commitMessages:
-  commitAuthorName: "mochaaP Bot"
+  commitAuthorName: "mcha0[bot]"
   commitAuthorEmail: "git-bot@mochaa.ws"
 
 sites:
