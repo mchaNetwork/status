@@ -321,19 +321,19 @@
     "url": "https://sear.mcha.cloud/healthz",
     "icon": "https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/favicon.svg",
     "slug": "searcha",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 679,
-    "timeDay": 687,
-    "timeWeek": 692,
-    "timeMonth": 766,
-    "timeYear": 679,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 682,
+    "timeDay": 743,
+    "timeWeek": 710,
+    "timeMonth": 769,
+    "timeYear": 682,
     "dailyMinutesDown": {
-      "2024-03-13": 0
+      "2024-03-13": 9
     }
   },
   {
