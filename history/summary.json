@@ -260,11 +260,11 @@
     "icon": "https://raw.githubusercontent.com/offen/offen/development/server/public/static/offen-icon-black.svg",
     "slug": "insights",
     "status": "up",
-    "uptime": "38.78%",
+    "uptime": "38.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.31%",
+    "uptimeYear": "88.32%",
     "time": 459,
     "timeDay": 491,
     "timeWeek": 542,
@@ -312,8 +312,7 @@
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
-      "2023-03-16": 1440,
-      "2023-03-15": 1440
+      "2023-03-16": 1440
     }
   },
   {
@@ -321,19 +320,20 @@
     "url": "https://sear.mcha.cloud/healthz",
     "icon": "https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/favicon.svg",
     "slug": "searcha",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.92%",
     "time": 679,
-    "timeDay": 670,
-    "timeWeek": 706,
-    "timeMonth": 767,
+    "timeDay": 676,
+    "timeWeek": 705,
+    "timeMonth": 764,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2024-03-13": 0
+      "2024-03-14": 52,
+      "2024-03-13": 5
     }
   },
   {
@@ -398,11 +398,11 @@
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png",
     "slug": "twitter-mirror-nitter",
     "status": "up",
-    "uptime": "78.98%",
+    "uptime": "79.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "70.64%",
-    "uptimeYear": "78.98%",
+    "uptimeYear": "79.00%",
     "time": 1448,
     "timeDay": 1477,
     "timeWeek": 3208,
