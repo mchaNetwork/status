@@ -264,7 +264,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "93.53%",
+    "uptimeYear": "93.55%",
     "time": 463,
     "timeDay": 629,
     "timeWeek": 606,
@@ -363,9 +363,9 @@
     "url": "https://wei-ji.eu.org/",
     "icon": "https://raw.githubusercontent.com/Metastem/wikiless/main/static/wikiless-favicon.ico",
     "slug": "wikipedia-mirror-wikiless",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -374,7 +374,9 @@
     "timeWeek": 596,
     "timeMonth": 609,
     "timeYear": 547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-02": 0
+    }
   },
   {
     "name": "Twitter Mirror (Nitter)",
@@ -382,11 +384,11 @@
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png",
     "slug": "twitter-mirror-nitter",
     "status": "up",
-    "uptime": "84.16%",
+    "uptime": "84.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.22%",
     "uptimeMonth": "98.27%",
-    "uptimeYear": "84.16%",
+    "uptimeYear": "84.18%",
     "time": 1466,
     "timeDay": 933,
     "timeWeek": 1232,
