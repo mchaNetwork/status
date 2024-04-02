@@ -345,9 +345,9 @@
     "slug": "git-hub-mirror",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
     "timeDay": 315,
@@ -355,7 +355,6 @@
     "timeMonth": 731,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2024-04-02": 4,
       "2023-09-05": 15
     }
   },
@@ -382,11 +381,11 @@
     "url": "https://tui-te.eu.org/Jack/status/20",
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png",
     "slug": "twitter-mirror-nitter",
-    "status": "up",
+    "status": "down",
     "uptime": "84.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.22%",
-    "uptimeMonth": "98.27%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "93.20%",
+    "uptimeMonth": "98.26%",
     "uptimeYear": "84.30%",
     "time": 1466,
     "timeDay": 933,
@@ -394,6 +393,7 @@
     "timeMonth": 2140,
     "timeYear": 1466,
     "dailyMinutesDown": {
+      "2024-04-02": 3,
       "2024-03-30": 683,
       "2024-03-14": 75,
       "2024-02-26": 631,
@@ -425,10 +425,10 @@
     "url": "https://hong-di.eu.org/",
     "icon": "https://raw.githubusercontent.com/redlib-org/redlib/main/static/favicon.png",
     "slug": "reddit-mirror-redlib",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "97.03%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "97.04%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.69%",
     "time": 1378,
@@ -437,7 +437,7 @@
     "timeMonth": 1548,
     "timeYear": 1378,
     "dailyMinutesDown": {
-      "2024-04-02": 2,
+      "2024-04-02": 1,
       "2024-03-27": 219,
       "2024-03-26": 79
     }
