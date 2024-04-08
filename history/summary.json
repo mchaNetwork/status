@@ -5,7 +5,7 @@
     "icon": "https://avatars.githubusercontent.com/u/21154023",
     "slug": "homepage",
     "status": "up",
-    "uptime": "78.28%",
+    "uptime": "78.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -260,11 +260,11 @@
     "icon": "https://raw.githubusercontent.com/offen/offen/development/server/public/static/offen-icon-black.svg",
     "slug": "insights",
     "status": "up",
-    "uptime": "40.20%",
+    "uptime": "40.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "95.17%",
+    "uptimeYear": "95.38%",
     "time": 464,
     "timeDay": 443,
     "timeWeek": 516,
@@ -337,10 +337,10 @@
     "url": "https://gh.chapro.xyz",
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.90%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 232,
@@ -349,6 +349,7 @@
     "timeMonth": 298,
     "timeYear": 248,
     "dailyMinutesDown": {
+      "2024-04-08": 1,
       "2024-04-02": 10,
       "2023-09-05": 15
     }
@@ -377,13 +378,13 @@
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png",
     "slug": "twitter-mirror-nitter",
     "status": "up",
-    "uptime": "85.43%",
+    "uptime": "85.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "98.20%",
-    "uptimeYear": "85.43%",
+    "uptimeYear": "85.58%",
     "time": 1493,
-    "timeDay": 3005,
+    "timeDay": 539,
     "timeWeek": 2662,
     "timeMonth": 2369,
     "timeYear": 1493,
@@ -442,9 +443,9 @@
     "url": "$YALLMUI_URL",
     "icon": "https://github.com/mchaNetwork/status/assets/21154023/9304428c-412c-4acf-8b6c-1e370d602cef",
     "slug": "yet-another-llm-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -453,6 +454,8 @@
     "timeWeek": 330,
     "timeMonth": 351,
     "timeYear": 409,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-08": 0
+    }
   }
 ]
