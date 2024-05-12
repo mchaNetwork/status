@@ -325,17 +325,17 @@
     "url": "https://gh.chapro.xyz",
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "82.06%",
+    "uptimeDay": "82.05%",
     "uptimeWeek": "94.94%",
-    "uptimeMonth": "98.84%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.90%",
     "time": 260,
     "timeDay": 230,
     "timeWeek": 238,
-    "timeMonth": 330,
-    "timeYear": 283,
+    "timeMonth": 249,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2024-05-12": 102,
       "2024-05-11": 280,
@@ -376,7 +376,7 @@
     "time": 1473,
     "timeDay": 552,
     "timeWeek": 951,
-    "timeMonth": 1280,
+    "timeMonth": 1272,
     "timeYear": 1473,
     "dailyMinutesDown": {
       "2024-04-15": 284,
@@ -422,7 +422,7 @@
     "time": 1426,
     "timeDay": 680,
     "timeWeek": 1210,
-    "timeMonth": 1555,
+    "timeMonth": 1195,
     "timeYear": 1426,
     "dailyMinutesDown": {
       "2024-05-03": 179,
@@ -444,9 +444,9 @@
     "slug": "yet-another-llm-ui",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 482,
     "timeDay": 550,
@@ -454,7 +454,6 @@
     "timeMonth": 462,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2024-05-12": 5,
       "2024-04-12": 59
     }
   }
