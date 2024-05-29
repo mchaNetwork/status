@@ -259,7 +259,7 @@
     "icon": "https://raw.githubusercontent.com/offen/offen/development/server/public/static/offen-icon-black.svg",
     "slug": "insights",
     "status": "up",
-    "uptime": "42.86%",
+    "uptime": "42.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.68%",
@@ -327,18 +327,19 @@
     "url": "https://gh.chapro.xyz",
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "94.70%",
-    "uptimeWeek": "91.42%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "91.41%",
     "uptimeMonth": "93.76%",
     "uptimeYear": "99.48%",
     "time": 267,
-    "timeDay": 259,
-    "timeWeek": 270,
+    "timeDay": 256,
+    "timeWeek": 269,
     "timeMonth": 266,
     "timeYear": 276,
     "dailyMinutesDown": {
+      "2024-05-29": 0,
       "2024-05-28": 114,
       "2024-05-27": 135,
       "2024-05-26": 114,
@@ -357,8 +358,7 @@
       "2024-05-13": 197,
       "2024-05-12": 119,
       "2024-05-11": 280,
-      "2024-05-10": 128,
-      "2024-04-02": 10
+      "2024-05-10": 128
     }
   },
   {
