@@ -327,14 +327,14 @@
     "url": "https://gh.chapro.xyz",
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "84.80%",
-    "uptimeWeek": "90.05%",
-    "uptimeMonth": "93.68%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "84.79%",
+    "uptimeWeek": "90.04%",
+    "uptimeMonth": "93.73%",
+    "uptimeYear": "99.48%",
     "time": 266,
-    "timeDay": 308,
+    "timeDay": 304,
     "timeWeek": 272,
     "timeMonth": 268,
     "timeYear": 277,
@@ -358,7 +358,7 @@
       "2024-05-14": 132,
       "2024-05-13": 197,
       "2024-05-12": 119,
-      "2024-05-11": 206
+      "2024-05-11": 185
     }
   },
   {
