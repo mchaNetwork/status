@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "38.16%",
+    "uptimeYear": "38.18%",
     "time": 381,
     "timeDay": 487,
     "timeWeek": 486,
@@ -239,8 +239,7 @@
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
-      "2023-06-18": 1440,
-      "2023-06-17": 1440
+      "2023-06-18": 1440
     }
   },
   {
@@ -249,7 +248,7 @@
     "icon": "https://raw.githubusercontent.com/offen/offen/development/server/public/static/offen-icon-black.svg",
     "slug": "insights",
     "status": "up",
-    "uptime": "43.75%",
+    "uptime": "43.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.68%",
@@ -320,17 +319,17 @@
     "slug": "git-hub-mirror",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "92.02%",
-    "uptimeWeek": "90.06%",
-    "uptimeMonth": "94.02%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "95.02%",
+    "uptimeWeek": "90.46%",
+    "uptimeMonth": "93.93%",
+    "uptimeYear": "99.49%",
     "time": 237,
-    "timeDay": 187,
+    "timeDay": 182,
     "timeWeek": 150,
     "timeMonth": 224,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2024-06-15": 111,
+      "2024-06-15": 106,
       "2024-06-14": 116,
       "2024-06-13": 51,
       "2024-06-12": 110,
@@ -346,7 +345,8 @@
       "2024-06-02": 126,
       "2024-06-01": 86,
       "2024-05-31": 299,
-      "2024-05-30": 154
+      "2024-05-30": 193,
+      "2024-05-29": 3
     }
   },
   {
