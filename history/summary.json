@@ -5,15 +5,15 @@
     "icon": "https://avatars.githubusercontent.com/u/21154023",
     "slug": "homepage",
     "status": "up",
-    "uptime": "79.84%",
+    "uptime": "79.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.26%",
+    "uptimeYear": "42.29%",
     "time": 415,
     "timeDay": 493,
     "timeWeek": 470,
-    "timeMonth": 562,
+    "timeMonth": 566,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2024-01-27": 1007,
@@ -224,8 +224,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   },
   {
@@ -242,7 +241,7 @@
     "time": 507,
     "timeDay": 600,
     "timeWeek": 475,
-    "timeMonth": 503,
+    "timeMonth": 505,
     "timeYear": 535,
     "dailyMinutesDown": {
       "2024-05-19": 78,
@@ -260,12 +259,12 @@
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1393,
     "timeDay": 587,
     "timeWeek": 1199,
-    "timeMonth": 1788,
+    "timeMonth": 1669,
     "timeYear": 1393,
     "dailyMinutesDown": {
       "2024-05-31": 50,
@@ -289,7 +288,7 @@
     "time": 1334,
     "timeDay": 515,
     "timeWeek": 1141,
-    "timeMonth": 2022,
+    "timeMonth": 2175,
     "timeYear": 1334,
     "dailyMinutesDown": {
       "2024-05-08": 33,
@@ -305,17 +304,16 @@
     "slug": "git-hub-mirror",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "94.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "94.26%",
     "uptimeYear": "99.52%",
     "time": 242,
-    "timeDay": 228,
+    "timeDay": 230,
     "timeWeek": 192,
-    "timeMonth": 199,
+    "timeMonth": 193,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2024-06-30": 2,
       "2024-06-29": 16,
       "2024-06-27": 37,
       "2024-06-24": 85,
@@ -338,7 +336,7 @@
       "2024-06-04": 236,
       "2024-06-03": 123,
       "2024-06-02": 126,
-      "2024-06-01": 54
+      "2024-06-01": 70
     }
   },
   {
@@ -355,7 +353,7 @@
     "time": 488,
     "timeDay": 295,
     "timeWeek": 1509,
-    "timeMonth": 578,
+    "timeMonth": 588,
     "timeYear": 488,
     "dailyMinutesDown": {}
   },
@@ -365,15 +363,15 @@
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png",
     "slug": "twitter-mirror-nitter",
     "status": "up",
-    "uptime": "93.01%",
+    "uptime": "93.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "93.01%",
+    "uptimeYear": "93.02%",
     "time": 1541,
     "timeDay": 821,
     "timeWeek": 1577,
-    "timeMonth": 3101,
+    "timeMonth": 3171,
     "timeYear": 1541,
     "dailyMinutesDown": {
       "2024-06-08": 56,
@@ -415,12 +413,12 @@
     "uptime": "96.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.72%",
-    "uptimeMonth": "96.52%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "96.32%",
     "time": 1792,
     "timeDay": 4100,
     "timeWeek": 2440,
-    "timeMonth": 2514,
+    "timeMonth": 2423,
     "timeYear": 1792,
     "dailyMinutesDown": {
       "2024-06-29": 28,
@@ -461,7 +459,7 @@
     "time": 427,
     "timeDay": 225,
     "timeWeek": 285,
-    "timeMonth": 296,
+    "timeMonth": 299,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2024-04-12": 59
