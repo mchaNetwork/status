@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.31%",
+    "uptimeYear": "46.37%",
     "time": 432,
     "timeDay": 479,
     "timeWeek": 490,
@@ -219,7 +219,7 @@
     "icon": "https://raw.githubusercontent.com/offen/offen/development/server/public/static/offen-icon-black.svg",
     "slug": "insights",
     "status": "up",
-    "uptime": "45.17%",
+    "uptime": "45.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -288,16 +288,16 @@
     "url": "https://gh.chapro.xyz",
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "97.13%",
-    "uptimeWeek": "98.78%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "98.77%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "99.52%",
     "time": 240,
-    "timeDay": 200,
-    "timeWeek": 229,
-    "timeMonth": 246,
+    "timeDay": 202,
+    "timeWeek": 230,
+    "timeMonth": 247,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2024-07-15": 18,
@@ -327,7 +327,7 @@
       "2024-06-05": 217,
       "2024-06-04": 236,
       "2024-06-03": 123,
-      "2024-06-02": 43
+      "2024-06-02": 26
     }
   },
   {
@@ -337,18 +337,16 @@
     "slug": "wikipedia-mirror-wikiless",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 498,
     "timeDay": 270,
     "timeWeek": 325,
     "timeMonth": 739,
     "timeYear": 498,
-    "dailyMinutesDown": {
-      "2024-07-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Twitter Mirror (Nitter)",
@@ -409,7 +407,7 @@
     "uptimeMonth": "99.17%",
     "uptimeYear": "96.64%",
     "time": 1873,
-    "timeDay": 1036,
+    "timeDay": 1037,
     "timeWeek": 2874,
     "timeMonth": 2796,
     "timeYear": 1873,
@@ -444,18 +442,17 @@
     "icon": "https://github.com/mchaNetwork/status/assets/21154023/9304428c-412c-4acf-8b6c-1e370d602cef",
     "slug": "yet-another-llm-ui",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 419,
     "timeDay": 272,
     "timeWeek": 305,
     "timeMonth": 313,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2024-07-15": 5,
       "2024-04-12": 59
     }
   }
