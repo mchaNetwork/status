@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.38%",
+    "uptimeYear": "46.40%",
     "time": 433,
     "timeDay": 437,
     "timeWeek": 484,
@@ -209,8 +209,7 @@
       "2023-07-21": 1440,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
-      "2023-07-18": 1440,
-      "2023-07-17": 1440
+      "2023-07-18": 1440
     }
   },
   {
@@ -290,17 +289,17 @@
     "slug": "git-hub-mirror",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "99.52%",
     "time": 241,
     "timeDay": 203,
-    "timeWeek": 229,
+    "timeWeek": 226,
     "timeMonth": 247,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2024-07-15": 24,
+      "2024-07-15": 18,
       "2024-07-14": 39,
       "2024-07-12": 66,
       "2024-07-07": 19,
@@ -327,7 +326,7 @@
       "2024-06-05": 217,
       "2024-06-04": 236,
       "2024-06-03": 123,
-      "2024-06-02": 26
+      "2024-06-02": 43
     }
   },
   {
@@ -354,11 +353,11 @@
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png",
     "slug": "twitter-mirror-nitter",
     "status": "up",
-    "uptime": "93.62%",
+    "uptime": "93.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.62%",
+    "uptimeYear": "93.63%",
     "time": 1554,
     "timeDay": 8314,
     "timeWeek": 2528,
