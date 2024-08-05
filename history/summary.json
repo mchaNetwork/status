@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.95%",
+    "uptimeYear": "51.97%",
     "time": 473,
     "timeDay": 563,
     "timeWeek": 470,
@@ -268,17 +268,16 @@
     "slug": "git-hub-mirror",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "99.53%",
     "time": 240,
-    "timeDay": 184,
+    "timeDay": 177,
     "timeWeek": 208,
     "timeMonth": 220,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2024-08-05": 5,
       "2024-08-04": 18,
       "2024-08-03": 19,
       "2024-08-02": 41,
@@ -315,7 +314,7 @@
       "2024-06-08": 79,
       "2024-06-07": 126,
       "2024-06-06": 170,
-      "2024-06-05": 136
+      "2024-06-05": 154
     }
   },
   {
@@ -431,10 +430,10 @@
     "url": "$YALLMUI_URL",
     "icon": "https://github.com/mchaNetwork/status/assets/21154023/9304428c-412c-4acf-8b6c-1e370d602cef",
     "slug": "yet-another-llm-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 413,
@@ -443,6 +442,7 @@
     "timeMonth": 350,
     "timeYear": 413,
     "dailyMinutesDown": {
+      "2024-08-05": 1,
       "2024-04-12": 59
     }
   }
