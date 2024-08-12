@@ -1,7 +1,7 @@
 url: https://waka.mcha.cloud/api/health
-status: degraded
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-12T09:33:28.062Z
+status: up
+code: 200
+responseTime: 781
+lastUpdated: 2024-08-12T09:37:55.138Z
 startTime: 2024-01-25T20:50:57.689Z
 generator: Upptime <https://github.com/upptime/upptime>
