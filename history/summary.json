@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.87%",
+    "uptimeYear": "53.88%",
     "time": 482,
     "timeDay": 510,
     "timeWeek": 442,
@@ -236,9 +236,9 @@
     "url": "https://waka.mcha.cloud/api/health",
     "icon": "https://raw.githubusercontent.com/muety/wakapi/master/static/assets/images/apple-touch-icon.png",
     "slug": "wakapi",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.89%",
@@ -248,6 +248,7 @@
     "timeMonth": 1653,
     "timeYear": 1415,
     "dailyMinutesDown": {
+      "2024-08-12": 0,
       "2024-08-07": 27,
       "2024-05-08": 33,
       "2024-04-21": 38,
@@ -435,9 +436,9 @@
     "slug": "yet-another-llm-ui",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 414,
     "timeDay": 592,
@@ -445,7 +446,6 @@
     "timeMonth": 377,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2024-08-12": 5,
       "2024-04-12": 59
     }
   }
