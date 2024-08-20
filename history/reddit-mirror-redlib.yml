@@ -1,7 +1,7 @@
 url: https://hong-di.eu.org/
-status: up
-code: 200
-responseTime: 1319
-lastUpdated: 2024-08-19T23:11:39.326Z
+status: down
+code: 502
+responseTime: 10630
+lastUpdated: 2024-08-20T13:09:49.052Z
 startTime: 2024-01-25T20:51:05.850Z
 generator: Upptime <https://github.com/upptime/upptime>
