@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.08%",
+    "uptimeYear": "60.10%",
     "time": 494,
     "timeDay": 635,
     "timeWeek": 771,
@@ -159,8 +159,7 @@
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
-      "2023-09-06": 1440,
-      "2023-09-05": 1440
+      "2023-09-06": 1440
     }
   },
   {
@@ -169,7 +168,7 @@
     "icon": "https://raw.githubusercontent.com/offen/offen/development/server/public/static/offen-icon-black.svg",
     "slug": "insights",
     "status": "up",
-    "uptime": "47.41%",
+    "uptime": "47.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
@@ -244,17 +243,17 @@
     "slug": "git-hub-mirror",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "92.16%",
-    "uptimeWeek": "96.05%",
-    "uptimeMonth": "97.04%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "96.17%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "99.47%",
     "time": 237,
-    "timeDay": 255,
+    "timeDay": 256,
     "timeWeek": 245,
     "timeMonth": 222,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-09-03": 113,
+      "2024-09-03": 102,
       "2024-09-02": 101,
       "2024-09-01": 57,
       "2024-08-31": 18,
@@ -305,7 +304,7 @@
       "2024-06-14": 116,
       "2024-06-13": 51,
       "2024-06-12": 110,
-      "2024-06-11": 156
+      "2024-06-11": 172
     }
   },
   {
@@ -332,11 +331,11 @@
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png",
     "slug": "twitter-mirror-nitter",
     "status": "up",
-    "uptime": "95.05%",
+    "uptime": "95.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "95.05%",
+    "uptimeYear": "95.06%",
     "time": 1822,
     "timeDay": 5634,
     "timeWeek": 2241,
