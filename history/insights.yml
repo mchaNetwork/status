@@ -1,7 +1,7 @@
 url: https://insights.mcha.cloud/healthz
-status: down
-code: 503
-responseTime: 979
-lastUpdated: 2024-09-09T04:29:42.554Z
+status: up
+code: 200
+responseTime: 424
+lastUpdated: 2024-09-09T06:16:35.209Z
 startTime: 2021-04-24T02:29:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
