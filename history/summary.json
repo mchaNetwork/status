@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.00%",
+    "uptimeYear": "62.02%",
     "time": 497,
     "timeDay": 495,
     "timeWeek": 526,
@@ -152,8 +152,7 @@
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
-      "2023-09-13": 1440,
-      "2023-09-12": 1440
+      "2023-09-13": 1440
     }
   },
   {
@@ -238,9 +237,9 @@
     "slug": "git-hub-mirror",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "97.48%",
-    "uptimeWeek": "95.94%",
-    "uptimeMonth": "96.53%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "96.55%",
     "uptimeYear": "99.47%",
     "time": 237,
     "timeDay": 260,
@@ -248,7 +247,7 @@
     "timeMonth": 230,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-09-10": 37,
+      "2024-09-10": 31,
       "2024-09-09": 176,
       "2024-09-08": 61,
       "2024-09-06": 19,
@@ -302,7 +301,7 @@
       "2024-06-17": 32,
       "2024-06-16": 58,
       "2024-06-15": 106,
-      "2024-06-14": 56
+      "2024-06-14": 83
     }
   },
   {
@@ -329,11 +328,11 @@
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png",
     "slug": "twitter-mirror-nitter",
     "status": "up",
-    "uptime": "95.20%",
+    "uptime": "95.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.20%",
+    "uptimeYear": "95.21%",
     "time": 1891,
     "timeDay": 8357,
     "timeWeek": 5426,
@@ -377,11 +376,11 @@
     "icon": "https://raw.githubusercontent.com/redlib-org/redlib/main/static/favicon.png",
     "slug": "reddit-mirror-redlib",
     "status": "up",
-    "uptime": "97.10%",
+    "uptime": "97.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "97.10%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "97.11%",
     "time": 2107,
     "timeDay": 1438,
     "timeWeek": 2617,
