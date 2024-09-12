@@ -5,11 +5,11 @@
     "icon": "https://avatars.githubusercontent.com/u/21154023",
     "slug": "homepage",
     "status": "up",
-    "uptime": "81.03%",
+    "uptime": "81.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.27%",
+    "uptimeYear": "62.29%",
     "time": 497,
     "timeDay": 1016,
     "timeWeek": 624,
@@ -151,8 +151,7 @@
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
-      "2023-09-14": 1440,
-      "2023-09-13": 1440
+      "2023-09-14": 1440
     }
   },
   {
@@ -237,17 +236,17 @@
     "slug": "git-hub-mirror",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "96.19%",
-    "uptimeWeek": "95.81%",
-    "uptimeMonth": "96.42%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "95.86%",
+    "uptimeMonth": "96.43%",
     "uptimeYear": "99.47%",
     "time": 238,
-    "timeDay": 253,
+    "timeDay": 254,
     "timeWeek": 244,
     "timeMonth": 231,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-09-11": 55,
+      "2024-09-11": 50,
       "2024-09-10": 31,
       "2024-09-09": 176,
       "2024-09-08": 61,
@@ -302,7 +301,7 @@
       "2024-06-17": 32,
       "2024-06-16": 58,
       "2024-06-15": 106,
-      "2024-06-14": 4
+      "2024-06-14": 22
     }
   },
   {
