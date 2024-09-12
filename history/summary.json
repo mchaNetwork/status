@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.29%",
+    "uptimeYear": "62.31%",
     "time": 497,
     "timeDay": 1016,
     "timeWeek": 624,
@@ -217,7 +217,7 @@
     "time": 1464,
     "timeDay": 3156,
     "timeWeek": 1650,
-    "timeMonth": 1743,
+    "timeMonth": 1779,
     "timeYear": 1464,
     "dailyMinutesDown": {
       "2024-09-01": 55,
@@ -234,18 +234,19 @@
     "url": "https://gh.chapro.xyz",
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "95.86%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "96.01%",
     "uptimeMonth": "96.43%",
     "uptimeYear": "99.47%",
     "time": 238,
-    "timeDay": 254,
-    "timeWeek": 244,
+    "timeDay": 253,
+    "timeWeek": 245,
     "timeMonth": 231,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2024-09-12": 0,
       "2024-09-11": 50,
       "2024-09-10": 31,
       "2024-09-09": 176,
@@ -301,7 +302,7 @@
       "2024-06-17": 32,
       "2024-06-16": 58,
       "2024-06-15": 106,
-      "2024-06-14": 22
+      "2024-06-14": 4
     }
   },
   {
