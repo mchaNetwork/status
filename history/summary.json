@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.50%",
+    "uptimeYear": "63.53%",
     "time": 502,
     "timeDay": 435,
     "timeWeek": 648,
@@ -155,9 +155,9 @@
     "url": "https://insights.mcha.cloud/healthz",
     "icon": "https://raw.githubusercontent.com/offen/offen/development/server/public/static/offen-icon-black.svg",
     "slug": "insights",
-    "status": "up",
+    "status": "down",
     "uptime": "47.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.86%",
@@ -167,6 +167,7 @@
     "timeMonth": 594,
     "timeYear": 563,
     "dailyMinutesDown": {
+      "2024-09-16": 0,
       "2024-09-09": 107,
       "2024-08-27": 52,
       "2024-05-19": 78,
@@ -233,9 +234,9 @@
     "slug": "git-hub-mirror",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "82.85%",
-    "uptimeWeek": "92.61%",
-    "uptimeMonth": "95.18%",
+    "uptimeDay": "83.22%",
+    "uptimeWeek": "92.66%",
+    "uptimeMonth": "95.19%",
     "uptimeYear": "99.44%",
     "time": 239,
     "timeDay": 245,
@@ -243,7 +244,7 @@
     "timeMonth": 245,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2024-09-16": 220,
+      "2024-09-16": 215,
       "2024-09-15": 148,
       "2024-09-14": 110,
       "2024-09-13": 55,
@@ -294,7 +295,8 @@
       "2024-07-07": 19,
       "2024-07-04": 16,
       "2024-07-03": 17,
-      "2024-06-29": 16
+      "2024-06-29": 16,
+      "2024-06-27": 18
     }
   },
   {
