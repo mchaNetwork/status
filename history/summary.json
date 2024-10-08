@@ -261,19 +261,19 @@
     "url": "https://wei-ji.eu.org/",
     "icon": "https://raw.githubusercontent.com/Metastem/wikiless/main/static/wikiless-favicon.ico",
     "slug": "wikipedia-mirror-wikiless",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 574,
-    "timeDay": 0,
-    "timeWeek": 550,
-    "timeMonth": 665,
+    "timeDay": 519,
+    "timeWeek": 545,
+    "timeMonth": 660,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2024-10-08": 1
+      "2024-10-08": 13
     }
   },
   {
