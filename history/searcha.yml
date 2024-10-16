@@ -1,7 +1,7 @@
 url: https://sear.mcha.cloud/healthz
-status: up
-code: 200
-responseTime: 460
-lastUpdated: 2024-10-15T23:11:52.175Z
+status: down
+code: 503
+responseTime: 15517
+lastUpdated: 2024-10-16T19:08:02.737Z
 startTime: 2024-01-25T20:50:56.965Z
 generator: Upptime <https://github.com/upptime/upptime>
