@@ -23,7 +23,7 @@
     "icon": "https://raw.githubusercontent.com/offen/offen/development/server/public/static/offen-icon-black.svg",
     "slug": "insights",
     "status": "up",
-    "uptime": "53.39%",
+    "uptime": "53.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -247,9 +247,9 @@
     "url": "https://hong-di.eu.org/",
     "icon": "https://raw.githubusercontent.com/redlib-org/redlib/main/static/favicon.png",
     "slug": "reddit-mirror-redlib",
-    "status": "up",
-    "uptime": "98.74%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.75%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "97.21%",
     "uptimeMonth": "97.60%",
     "uptimeYear": "98.69%",
@@ -259,6 +259,7 @@
     "timeMonth": 3040,
     "timeYear": 1907,
     "dailyMinutesDown": {
+      "2025-02-09": 1,
       "2025-02-05": 220,
       "2025-02-02": 61,
       "2025-01-27": 15,
@@ -296,7 +297,7 @@
       "2024-11-24": 201,
       "2024-11-23": 680,
       "2024-11-22": 645,
-      "2024-11-21": 401
+      "2024-11-21": 374
     }
   },
   {
