@@ -23,7 +23,7 @@
     "icon": "https://raw.githubusercontent.com/offen/offen/development/server/public/static/offen-icon-black.svg",
     "slug": "insights",
     "status": "up",
-    "uptime": "53.69%",
+    "uptime": "53.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -113,9 +113,9 @@
     "url": "https://flux.mcha.cloud/healthcheck",
     "icon": "https://raw.githubusercontent.com/miniflux/v2/main/internal/ui/static/bin/favicon-32.png",
     "slug": "fluxfeed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -124,7 +124,9 @@
     "timeWeek": 669,
     "timeMonth": 635,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-18": 0
+    }
   },
   {
     "name": "GitHub Mirror",
@@ -201,11 +203,11 @@
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png",
     "slug": "twitter-mirror-nitter",
     "status": "up",
-    "uptime": "96.71%",
+    "uptime": "96.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
-    "uptimeYear": "96.98%",
+    "uptimeYear": "97.05%",
     "time": 2102,
     "timeDay": 1025,
     "timeWeek": 603,
