@@ -113,19 +113,19 @@
     "url": "https://flux.mcha.cloud/healthcheck",
     "icon": "https://raw.githubusercontent.com/miniflux/v2/main/internal/ui/static/bin/favicon-32.png",
     "slug": "fluxfeed",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 613,
-    "timeDay": 785,
-    "timeWeek": 669,
-    "timeMonth": 635,
-    "timeYear": 613,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 614,
+    "timeDay": 717,
+    "timeWeek": 666,
+    "timeMonth": 636,
+    "timeYear": 614,
     "dailyMinutesDown": {
-      "2025-02-18": 0
+      "2025-02-18": 20
     }
   },
   {
