@@ -1,7 +1,7 @@
 url: https://tui-te.eu.org/Jack/status/20
-status: up
-code: 200
-responseTime: 4161
-lastUpdated: 2025-03-05T03:52:05.610Z
+status: down
+code: 500
+responseTime: 18788
+lastUpdated: 2025-03-05T03:57:51.794Z
 startTime: 2024-01-25T20:51:03.767Z
 generator: Upptime <https://github.com/upptime/upptime>
