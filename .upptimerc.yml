@@ -20,7 +20,7 @@ sites:
     url: https://sear.mcha.cloud/healthz
     icon: https://raw.githubusercontent.com/searxng/searxng/master/searx/static/themes/simple/img/favicon.svg
   - name: wakapi
-    url: https://waka.mcha.cloud/api/health
+    url: https://wakapi.canine.tools/api/health
     icon: https://raw.githubusercontent.com/muety/wakapi/master/static/assets/images/apple-touch-icon.png
     __dangerous__body_down_if_text_missing: "app=1"
     __dangerous__body_degraded_if_text_missing: "db=1"
@@ -62,7 +62,7 @@ status-website:
       href: https://github.com/mchaNetwork
   customHeadHtml: '<script async src="https://insights.mcha.cloud/script.js" data-account-id="0a56e2d5-8ea5-4e46-a7ec-1e96361b392d"></script>'
 
-user-agent: Mozilla/5.0 (compatible; monitar/1.0; +https://status.mcha.cloud)
+user-agent: curl/8.13.0 (compatible; monitar/1.0; +https://status.mcha.cloud)
 
 i18n:
   footer: © mochaaNetwork
