@@ -1,7 +1,7 @@
-url: https://waka.mcha.cloud/api/health
-status: down
-code: 503
-responseTime: 17479
-lastUpdated: 2025-04-12T23:11:57.942Z
+url: https://wakapi.canine.tools/api/health
+status: up
+code: 200
+responseTime: 757
+lastUpdated: 2025-04-13T04:57:32.653Z
 startTime: 2024-01-25T20:50:57.689Z
 generator: Upptime <https://github.com/upptime/upptime>
