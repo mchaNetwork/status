@@ -23,7 +23,7 @@
     "icon": "https://raw.githubusercontent.com/offen/offen/development/server/public/static/offen-icon-black.svg",
     "slug": "insights",
     "status": "up",
-    "uptime": "56.26%",
+    "uptime": "56.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
@@ -83,7 +83,7 @@
     "uptime": "97.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.33%",
+    "uptimeMonth": "93.46%",
     "uptimeYear": "97.09%",
     "time": 2273,
     "timeDay": 440,
@@ -142,15 +142,15 @@
     "url": "https://gh.chapro.xyz",
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "86.84%",
-    "uptimeWeek": "91.19%",
+    "uptimeDay": "86.81%",
+    "uptimeWeek": "91.18%",
     "uptimeMonth": "97.97%",
     "uptimeYear": "99.43%",
     "time": 251,
     "timeDay": 212,
-    "timeWeek": 221,
+    "timeWeek": 220,
     "timeMonth": 258,
     "timeYear": 246,
     "dailyMinutesDown": {
@@ -174,7 +174,7 @@
       "2024-09-12": 94,
       "2024-09-11": 50,
       "2024-09-10": 31,
-      "2024-09-09": 54
+      "2024-09-09": 38
     }
   },
   {
