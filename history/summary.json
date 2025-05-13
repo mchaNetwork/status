@@ -13,7 +13,7 @@
     "time": 554,
     "timeDay": 358,
     "timeWeek": 402,
-    "timeMonth": 512,
+    "timeMonth": 506,
     "timeYear": 581,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://raw.githubusercontent.com/offen/offen/development/server/public/static/offen-icon-black.svg",
     "slug": "insights",
     "status": "up",
-    "uptime": "56.32%",
+    "uptime": "56.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
@@ -31,7 +31,7 @@
     "time": 670,
     "timeDay": 578,
     "timeWeek": 610,
-    "timeMonth": 734,
+    "timeMonth": 733,
     "timeYear": 690,
     "dailyMinutesDown": {
       "2025-05-01": 20,
@@ -59,7 +59,7 @@
     "time": 1586,
     "timeDay": 630,
     "timeWeek": 658,
-    "timeMonth": 628,
+    "timeMonth": 619,
     "timeYear": 1703,
     "dailyMinutesDown": {
       "2025-02-18": 42,
@@ -83,12 +83,12 @@
     "uptime": "97.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.09%",
     "time": 2266,
     "timeDay": 230,
     "timeWeek": 167,
-    "timeMonth": 264,
+    "timeMonth": 248,
     "timeYear": 2611,
     "dailyMinutesDown": {
       "2025-04-13": 298,
@@ -131,7 +131,7 @@
     "time": 660,
     "timeDay": 525,
     "timeWeek": 632,
-    "timeMonth": 788,
+    "timeMonth": 800,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2025-02-18": 38
@@ -142,16 +142,16 @@
     "url": "https://gh.chapro.xyz",
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "85.48%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "85.46%",
     "uptimeWeek": "87.30%",
     "uptimeMonth": "97.08%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 246,
-    "timeDay": 230,
-    "timeWeek": 218,
-    "timeMonth": 242,
+    "timeDay": 225,
+    "timeWeek": 217,
+    "timeMonth": 240,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2025-05-13": 17,
@@ -171,7 +171,7 @@
       "2024-09-17": 52,
       "2024-09-16": 252,
       "2024-09-15": 148,
-      "2024-09-14": 79
+      "2024-09-14": 56
     }
   },
   {
@@ -188,7 +188,7 @@
     "time": 690,
     "timeDay": 247,
     "timeWeek": 310,
-    "timeMonth": 1383,
+    "timeMonth": 1407,
     "timeYear": 754,
     "dailyMinutesDown": {
       "2025-03-26": 21,
@@ -208,8 +208,8 @@
     "uptimeYear": "98.57%",
     "time": 4342,
     "timeDay": 8906,
-    "timeWeek": 7686,
-    "timeMonth": 7045,
+    "timeWeek": 7695,
+    "timeMonth": 7097,
     "timeYear": 5012,
     "dailyMinutesDown": {
       "2025-05-13": 167,
@@ -282,7 +282,7 @@
     "time": 2443,
     "timeDay": 4217,
     "timeWeek": 4696,
-    "timeMonth": 5561,
+    "timeMonth": 5591,
     "timeYear": 2540,
     "dailyMinutesDown": {
       "2025-05-12": 85,
