@@ -142,16 +142,16 @@
     "url": "https://gh.chapro.xyz",
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "86.44%",
-    "uptimeWeek": "84.60%",
-    "uptimeMonth": "96.46%",
-    "uptimeYear": "99.43%",
-    "time": 246,
-    "timeDay": 219,
-    "timeWeek": 217,
-    "timeMonth": 236,
+    "uptimeDay": "86.41%",
+    "uptimeWeek": "84.76%",
+    "uptimeMonth": "96.45%",
+    "uptimeYear": "99.44%",
+    "time": 245,
+    "timeDay": 217,
+    "timeWeek": 215,
+    "timeMonth": 235,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2025-05-14": 179,
@@ -170,7 +170,7 @@
       "2024-09-19": 510,
       "2024-09-18": 100,
       "2024-09-17": 52,
-      "2024-09-16": 103
+      "2024-09-16": 84
     }
   },
   {
@@ -203,7 +203,7 @@
     "uptime": "98.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.91%",
-    "uptimeMonth": "97.08%",
+    "uptimeMonth": "97.24%",
     "uptimeYear": "98.57%",
     "time": 4351,
     "timeDay": 9068,
@@ -273,18 +273,17 @@
     "icon": "https://raw.githubusercontent.com/redlib-org/redlib/main/static/favicon.png",
     "slug": "reddit-mirror-redlib",
     "status": "up",
-    "uptime": "93.36%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "95.95%",
-    "uptimeMonth": "70.64%",
-    "uptimeYear": "91.37%",
+    "uptime": "93.32%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "96.08%",
+    "uptimeMonth": "70.67%",
+    "uptimeYear": "91.31%",
     "time": 2482,
     "timeDay": 5787,
     "timeWeek": 4825,
-    "timeMonth": 5570,
+    "timeMonth": 5636,
     "timeYear": 2570,
     "dailyMinutesDown": {
-      "2025-05-14": 12,
       "2025-05-13": 21,
       "2025-05-12": 85,
       "2025-05-11": 130,
@@ -357,7 +356,8 @@
       "2025-01-09": 16,
       "2025-01-08": 132,
       "2025-01-07": 292,
-      "2025-01-06": 19
+      "2025-01-06": 199,
+      "2025-01-05": 139
     }
   },
   {
