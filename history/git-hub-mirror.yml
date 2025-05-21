@@ -1,7 +1,7 @@
 url: https://gh.chapro.xyz
-status: up
-code: 200
-responseTime: 363
-lastUpdated: 2025-05-21T08:00:13.970Z
+status: down
+code: 500
+responseTime: 50
+lastUpdated: 2025-05-21T08:26:17.634Z
 startTime: 2021-04-24T02:29:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
