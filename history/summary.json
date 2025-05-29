@@ -143,17 +143,17 @@
     "slug": "git-hub-mirror",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "85.10%",
-    "uptimeWeek": "83.23%",
-    "uptimeMonth": "93.30%",
+    "uptimeDay": "85.84%",
+    "uptimeWeek": "83.36%",
+    "uptimeMonth": "93.27%",
     "uptimeYear": "99.44%",
     "time": 238,
-    "timeDay": 243,
+    "timeDay": 246,
     "timeWeek": 230,
     "timeMonth": 225,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-05-29": 215,
+      "2025-05-29": 204,
       "2025-05-28": 295,
       "2025-05-27": 255,
       "2025-05-26": 189,
@@ -167,7 +167,7 @@
       "2025-05-18": 167,
       "2025-05-17": 82,
       "2025-05-16": 172,
-      "2025-05-15": 63
+      "2025-05-15": 83
     }
   },
   {
@@ -175,18 +175,19 @@
     "url": "https://wei-ji.eu.org/",
     "icon": "https://raw.githubusercontent.com/Metastem/wikiless/main/static/wikiless-favicon.ico",
     "slug": "wikipedia-mirror-wikiless",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 746,
-    "timeDay": 6903,
-    "timeWeek": 2654,
-    "timeMonth": 1799,
-    "timeYear": 837,
+    "time": 786,
+    "timeDay": 10223,
+    "timeWeek": 4407,
+    "timeMonth": 2356,
+    "timeYear": 889,
     "dailyMinutesDown": {
+      "2025-05-29": 1,
       "2025-03-26": 21,
       "2024-10-14": 22
     }
@@ -284,7 +285,7 @@
     "timeMonth": 5089,
     "timeYear": 2592,
     "dailyMinutesDown": {
-      "2025-05-29": 1135,
+      "2025-05-29": 1141,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
