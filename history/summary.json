@@ -143,9 +143,9 @@
     "slug": "git-hub-mirror",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "79.22%",
-    "uptimeWeek": "84.25%",
-    "uptimeMonth": "93.43%",
+    "uptimeDay": "79.59%",
+    "uptimeWeek": "84.31%",
+    "uptimeMonth": "93.38%",
     "uptimeYear": "99.45%",
     "time": 238,
     "timeDay": 244,
@@ -153,7 +153,7 @@
     "timeMonth": 224,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2025-05-28": 300,
+      "2025-05-28": 295,
       "2025-05-27": 255,
       "2025-05-26": 189,
       "2025-05-25": 180,
@@ -167,7 +167,7 @@
       "2025-05-17": 82,
       "2025-05-16": 172,
       "2025-05-15": 103,
-      "2025-05-14": 109
+      "2025-05-14": 136
     }
   },
   {
@@ -273,18 +273,19 @@
     "icon": "https://raw.githubusercontent.com/redlib-org/redlib/main/static/favicon.png",
     "slug": "reddit-mirror-redlib",
     "status": "down",
-    "uptime": "91.26%",
+    "uptime": "91.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "48.84%",
-    "uptimeYear": "88.28%",
+    "uptimeYear": "88.26%",
     "time": 2525,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 5089,
     "timeYear": 2592,
     "dailyMinutesDown": {
-      "2025-05-28": 1430,
+      "2025-05-29": 123,
+      "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
