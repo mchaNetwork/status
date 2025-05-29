@@ -141,16 +141,16 @@
     "url": "https://gh.chapro.xyz",
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "80.14%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "80.16%",
     "uptimeWeek": "83.68%",
-    "uptimeMonth": "93.27%",
-    "uptimeYear": "99.44%",
+    "uptimeMonth": "93.37%",
+    "uptimeYear": "99.45%",
     "time": 238,
-    "timeDay": 259,
-    "timeWeek": 230,
-    "timeMonth": 225,
+    "timeDay": 254,
+    "timeWeek": 229,
+    "timeMonth": 224,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-05-29": 125,
@@ -168,7 +168,7 @@
       "2025-05-17": 82,
       "2025-05-16": 172,
       "2025-05-15": 103,
-      "2025-05-14": 61
+      "2025-05-14": 19
     }
   },
   {
@@ -178,9 +178,9 @@
     "slug": "wikipedia-mirror-wikiless",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 746,
     "timeDay": 6903,
@@ -188,7 +188,6 @@
     "timeMonth": 1799,
     "timeYear": 837,
     "dailyMinutesDown": {
-      "2025-05-29": 15,
       "2025-03-26": 21,
       "2024-10-14": 22
     }
@@ -286,7 +285,7 @@
     "timeMonth": 5089,
     "timeYear": 2592,
     "dailyMinutesDown": {
-      "2025-05-29": 576,
+      "2025-05-29": 591,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
