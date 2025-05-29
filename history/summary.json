@@ -79,7 +79,7 @@
     "slug": "wakapi",
     "status": "up",
     "uptime": "97.78%",
-    "uptimeDay": "98.07%",
+    "uptimeDay": "99.57%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "97.07%",
@@ -141,11 +141,11 @@
     "url": "https://gh.chapro.xyz",
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "85.42%",
-    "uptimeWeek": "83.55%",
-    "uptimeMonth": "93.28%",
+    "uptimeWeek": "83.34%",
+    "uptimeMonth": "93.27%",
     "uptimeYear": "99.44%",
     "time": 238,
     "timeDay": 243,
@@ -153,7 +153,7 @@
     "timeMonth": 224,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2025-05-29": 182,
+      "2025-05-29": 204,
       "2025-05-28": 295,
       "2025-05-27": 255,
       "2025-05-26": 189,
@@ -167,7 +167,7 @@
       "2025-05-18": 167,
       "2025-05-17": 82,
       "2025-05-16": 172,
-      "2025-05-15": 103
+      "2025-05-15": 83
     }
   },
   {
@@ -273,7 +273,7 @@
     "icon": "https://raw.githubusercontent.com/redlib-org/redlib/main/static/favicon.png",
     "slug": "reddit-mirror-redlib",
     "status": "down",
-    "uptime": "91.13%",
+    "uptime": "91.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "48.84%",
@@ -284,7 +284,7 @@
     "timeMonth": 5089,
     "timeYear": 2592,
     "dailyMinutesDown": {
-      "2025-05-29": 984,
+      "2025-05-29": 1005,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
