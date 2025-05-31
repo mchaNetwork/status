@@ -13,7 +13,7 @@
     "time": 554,
     "timeDay": 530,
     "timeWeek": 509,
-    "timeMonth": 478,
+    "timeMonth": 472,
     "timeYear": 582,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://raw.githubusercontent.com/offen/offen/development/server/public/static/offen-icon-black.svg",
     "slug": "insights",
     "status": "up",
-    "uptime": "56.84%",
+    "uptime": "56.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -31,7 +31,7 @@
     "time": 691,
     "timeDay": 1042,
     "timeWeek": 785,
-    "timeMonth": 732,
+    "timeMonth": 720,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2025-05-01": 20,
@@ -57,7 +57,7 @@
     "time": 1554,
     "timeDay": 898,
     "timeWeek": 611,
-    "timeMonth": 628,
+    "timeMonth": 625,
     "timeYear": 1655,
     "dailyMinutesDown": {
       "2025-02-18": 42,
@@ -68,8 +68,7 @@
       "2024-10-16": 231,
       "2024-09-29": 353,
       "2024-09-28": 674,
-      "2024-09-01": 56,
-      "2024-05-31": 50
+      "2024-09-01": 56
     }
   },
   {
@@ -86,7 +85,7 @@
     "time": 2190,
     "timeDay": 143,
     "timeWeek": 114,
-    "timeMonth": 167,
+    "timeMonth": 166,
     "timeYear": 2543,
     "dailyMinutesDown": {
       "2025-05-28": 81,
@@ -130,7 +129,7 @@
     "time": 649,
     "timeDay": 697,
     "timeWeek": 619,
-    "timeMonth": 587,
+    "timeMonth": 589,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2025-02-18": 38
@@ -143,17 +142,17 @@
     "slug": "git-hub-mirror",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "87.20%",
-    "uptimeWeek": "84.68%",
-    "uptimeMonth": "93.30%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "93.58%",
+    "uptimeWeek": "84.73%",
+    "uptimeMonth": "93.17%",
+    "uptimeYear": "99.43%",
     "time": 236,
-    "timeDay": 220,
+    "timeDay": 222,
     "timeWeek": 230,
     "timeMonth": 224,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-05-30": 185,
+      "2025-05-30": 180,
       "2025-05-29": 225,
       "2025-05-28": 295,
       "2025-05-27": 255,
@@ -167,7 +166,7 @@
       "2025-05-19": 223,
       "2025-05-18": 167,
       "2025-05-17": 82,
-      "2025-05-16": 39
+      "2025-05-16": 102
     }
   },
   {
@@ -177,14 +176,14 @@
     "slug": "wikipedia-mirror-wikiless",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "88.57%",
+    "uptimeDay": "90.82%",
     "uptimeWeek": "98.02%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.95%",
     "time": 1730,
-    "timeDay": 12433,
+    "timeDay": 12343,
     "timeWeek": 11448,
-    "timeMonth": 8247,
+    "timeMonth": 8219,
     "timeYear": 2161,
     "dailyMinutesDown": {
       "2025-05-30": 165,
@@ -202,12 +201,12 @@
     "uptime": "98.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.90%",
+    "uptimeMonth": "98.80%",
     "uptimeYear": "98.53%",
     "time": 4502,
     "timeDay": 10310,
     "timeWeek": 3215,
-    "timeMonth": 6641,
+    "timeMonth": 6491,
     "timeYear": 5131,
     "dailyMinutesDown": {
       "2025-05-23": 20,
@@ -275,18 +274,19 @@
     "icon": "https://raw.githubusercontent.com/redlib-org/redlib/main/static/favicon.png",
     "slug": "reddit-mirror-redlib",
     "status": "down",
-    "uptime": "90.88%",
+    "uptime": "90.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.84%",
-    "uptimeYear": "87.73%",
+    "uptimeMonth": "45.55%",
+    "uptimeYear": "87.71%",
     "time": 2527,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 5089,
-    "timeYear": 2596,
+    "timeYear": 2597,
     "dailyMinutesDown": {
-      "2025-05-30": 1430,
+      "2025-05-31": 120,
+      "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -389,7 +389,7 @@
     "time": 428,
     "timeDay": 571,
     "timeWeek": 438,
-    "timeMonth": 388,
+    "timeMonth": 392,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2025-03-06": 18,
