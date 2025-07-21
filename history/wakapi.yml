@@ -1,7 +1,7 @@
 url: https://wakapi.canine.tools/api/health
-status: degraded
+status: up
 code: 200
-responseTime: 250
-lastUpdated: 2025-07-21T15:34:49.370Z
+responseTime: 425
+lastUpdated: 2025-07-21T16:15:32.743Z
 startTime: 2024-01-25T20:50:57.689Z
 generator: Upptime <https://github.com/upptime/upptime>
