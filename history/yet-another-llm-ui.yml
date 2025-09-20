@@ -1,7 +1,7 @@
 url: $YALLMUI_URL
-status: down
-code: 502
-responseTime: 563
-lastUpdated: 2025-09-20T15:24:20.476Z
+status: up
+code: 200
+responseTime: 262
+lastUpdated: 2025-09-20T15:30:21.736Z
 startTime: 2024-01-25T20:51:07.341Z
 generator: Upptime <https://github.com/upptime/upptime>
