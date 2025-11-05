@@ -200,7 +200,7 @@
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png",
     "slug": "twitter-mirror-nitter",
     "status": "up",
-    "uptime": "81.94%",
+    "uptime": "81.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.69%",
@@ -388,17 +388,17 @@
     "slug": "reddit-mirror-redlib",
     "status": "up",
     "uptime": "69.99%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "94.01%",
-    "uptimeMonth": "21.14%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "94.77%",
+    "uptimeMonth": "21.44%",
     "uptimeYear": "46.63%",
     "time": 2730,
     "timeDay": 2801,
-    "timeWeek": 2066,
+    "timeWeek": 2108,
     "timeMonth": 2036,
     "timeYear": 2757,
     "dailyMinutesDown": {
-      "2025-11-04": 42,
+      "2025-11-04": 38,
       "2025-11-03": 105,
       "2025-11-02": 65,
       "2025-11-01": 94,
@@ -628,7 +628,7 @@
       "2025-02-19": 42,
       "2025-02-18": 20,
       "2025-02-16": 102,
-      "2025-02-15": 71
+      "2025-02-15": 88
     }
   },
   {
