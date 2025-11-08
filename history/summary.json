@@ -389,9 +389,9 @@
     "slug": "reddit-mirror-redlib",
     "status": "up",
     "uptime": "73.33%",
-    "uptimeDay": "94.37%",
-    "uptimeWeek": "91.53%",
-    "uptimeMonth": "29.76%",
+    "uptimeDay": "94.63%",
+    "uptimeWeek": "91.57%",
+    "uptimeMonth": "30.03%",
     "uptimeYear": "52.34%",
     "time": 2701,
     "timeDay": 2056,
@@ -399,7 +399,7 @@
     "timeMonth": 2017,
     "timeYear": 2715,
     "dailyMinutesDown": {
-      "2025-11-07": 81,
+      "2025-11-07": 77,
       "2025-11-06": 328,
       "2025-11-05": 145,
       "2025-11-04": 38,
@@ -601,7 +601,7 @@
       "2025-04-12": 42,
       "2025-04-10": 74,
       "2025-04-09": 120,
-      "2025-04-08": 36
+      "2025-04-08": 53
     }
   },
   {
@@ -611,12 +611,12 @@
     "slug": "yet-another-llm-ui",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "93.03%",
+    "uptimeDay": "96.65%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.79%",
     "time": 487,
-    "timeDay": 409,
+    "timeDay": 350,
     "timeWeek": 449,
     "timeMonth": 1026,
     "timeYear": 511,
