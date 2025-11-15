@@ -387,19 +387,19 @@
     "url": "https://hong-di.eu.org/",
     "icon": "https://raw.githubusercontent.com/redlib-org/redlib/main/static/favicon.png",
     "slug": "reddit-mirror-redlib",
-    "status": "up",
+    "status": "down",
     "uptime": "73.39%",
-    "uptimeDay": "24.83%",
-    "uptimeWeek": "66.46%",
-    "uptimeMonth": "47.39%",
+    "uptimeDay": "27.24%",
+    "uptimeWeek": "66.45%",
+    "uptimeMonth": "47.47%",
     "uptimeYear": "51.89%",
-    "time": 2697,
+    "time": 2698,
     "timeDay": 1319,
     "timeWeek": 2165,
     "timeMonth": 2043,
     "timeYear": 2665,
     "dailyMinutesDown": {
-      "2025-11-15": 758,
+      "2025-11-15": 759,
       "2025-11-14": 1440,
       "2025-11-13": 243,
       "2025-11-12": 17,
@@ -599,8 +599,7 @@
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 277,
-      "2025-04-22": 89,
-      "2025-04-19": 17
+      "2025-04-22": 89
     }
   },
   {
