@@ -1,7 +1,7 @@
 url: https://flux.mcha.cloud/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-21T13:55:02.703Z
+status: up
+code: 200
+responseTime: 854
+lastUpdated: 2025-11-21T13:59:56.445Z
 startTime: 2024-12-26T09:05:31.981Z
 generator: Upptime <https://github.com/upptime/upptime>
