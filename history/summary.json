@@ -124,7 +124,7 @@
     "uptimeYear": "99.97%",
     "time": 707,
     "timeDay": 856,
-    "timeWeek": 728,
+    "timeWeek": 748,
     "timeMonth": 671,
     "timeYear": 707,
     "dailyMinutesDown": {
@@ -139,15 +139,15 @@
     "url": "https://gh.chapro.xyz",
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "41.48%",
-    "uptimeWeek": "49.44%",
-    "uptimeMonth": "88.37%",
-    "uptimeYear": "99.03%",
+    "uptimeDay": "41.46%",
+    "uptimeWeek": "49.74%",
+    "uptimeMonth": "88.44%",
+    "uptimeYear": "99.04%",
     "time": 285,
-    "timeDay": 462,
-    "timeWeek": 376,
+    "timeDay": 352,
+    "timeWeek": 377,
     "timeMonth": 377,
     "timeYear": 285,
     "dailyMinutesDown": {
@@ -157,7 +157,7 @@
       "2025-11-21": 645,
       "2025-11-20": 914,
       "2025-11-19": 802,
-      "2025-11-18": 246
+      "2025-11-18": 215
     }
   },
   {
@@ -194,7 +194,7 @@
     "icon": "https://raw.githubusercontent.com/zedeus/nitter/master/public/logo.png",
     "slug": "twitter-mirror-nitter",
     "status": "up",
-    "uptime": "82.48%",
+    "uptime": "82.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.74%",
@@ -384,7 +384,7 @@
     "uptime": "74.89%",
     "uptimeDay": "98.46%",
     "uptimeWeek": "96.92%",
-    "uptimeMonth": "76.47%",
+    "uptimeMonth": "76.48%",
     "uptimeYear": "53.98%",
     "time": 2678,
     "timeDay": 1043,
