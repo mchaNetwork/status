@@ -63,8 +63,7 @@
       "2025-07-21": 200,
       "2025-06-22": 16,
       "2025-02-18": 42,
-      "2024-11-26": 69,
-      "2024-11-25": 110
+      "2024-11-26": 69
     }
   },
   {
@@ -107,8 +106,7 @@
       "2025-02-18": 19,
       "2024-12-26": 73,
       "2024-11-27": 27,
-      "2024-11-26": 156,
-      "2024-11-25": 208
+      "2024-11-26": 156
     }
   },
   {
@@ -140,18 +138,19 @@
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
     "status": "down",
-    "uptime": "99.79%",
+    "uptime": "99.78%",
     "uptimeDay": "44.05%",
-    "uptimeWeek": "49.74%",
-    "uptimeMonth": "88.44%",
-    "uptimeYear": "99.04%",
+    "uptimeWeek": "48.48%",
+    "uptimeMonth": "88.14%",
+    "uptimeYear": "99.01%",
     "time": 286,
     "timeDay": 360,
     "timeWeek": 377,
     "timeMonth": 378,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-11-24": 801,
+      "2025-11-25": 122,
+      "2025-11-24": 807,
       "2025-11-23": 767,
       "2025-11-22": 922,
       "2025-11-21": 645,
@@ -384,7 +383,7 @@
     "uptime": "74.90%",
     "uptimeDay": "98.46%",
     "uptimeWeek": "96.92%",
-    "uptimeMonth": "76.64%",
+    "uptimeMonth": "76.93%",
     "uptimeYear": "53.98%",
     "time": 2678,
     "timeDay": 1043,
