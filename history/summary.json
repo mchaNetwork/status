@@ -133,15 +133,15 @@
     "url": "https://gh.chapro.xyz",
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "49.16%",
-    "uptimeWeek": "43.43%",
-    "uptimeMonth": "86.58%",
-    "uptimeYear": "98.88%",
+    "uptimeDay": "50.12%",
+    "uptimeWeek": "43.42%",
+    "uptimeMonth": "86.62%",
+    "uptimeYear": "98.89%",
     "time": 321,
-    "timeDay": 281,
-    "timeWeek": 315,
+    "timeDay": 280,
+    "timeWeek": 314,
     "timeMonth": 378,
     "timeYear": 320,
     "dailyMinutesDown": {
@@ -152,7 +152,7 @@
       "2025-12-18": 925,
       "2025-12-17": 959,
       "2025-12-16": 831,
-      "2025-12-15": 525
+      "2025-12-15": 507
     }
   },
   {
@@ -376,19 +376,19 @@
     "url": "https://hong-di.eu.org/",
     "icon": "https://raw.githubusercontent.com/redlib-org/redlib/main/static/favicon.png",
     "slug": "reddit-mirror-redlib",
-    "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "53.30%",
-    "uptimeWeek": "59.57%",
+    "status": "down",
+    "uptime": "97.54%",
+    "uptimeDay": "53.34%",
+    "uptimeWeek": "59.70%",
     "uptimeMonth": "50.65%",
-    "uptimeYear": "95.29%",
+    "uptimeYear": "95.30%",
     "time": 2610,
-    "timeDay": 1890,
-    "timeWeek": 1713,
-    "timeMonth": 1491,
-    "timeYear": 2842,
+    "timeDay": 1889,
+    "timeWeek": 1703,
+    "timeMonth": 1486,
+    "timeYear": 2839,
     "dailyMinutesDown": {
-      "2025-12-22": 310,
+      "2025-12-22": 311,
       "2025-12-21": 397,
       "2025-12-20": 443,
       "2025-12-19": 704,
@@ -426,7 +426,7 @@
       "2025-11-13": 243,
       "2025-11-12": 17,
       "2025-11-11": 273,
-      "2025-11-10": 108
+      "2025-11-10": 73
     }
   },
   {
