@@ -49,9 +49,9 @@
     "slug": "searcha",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "89.49%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "88.53%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.92%",
     "time": 1337,
     "timeDay": 14205,
@@ -59,7 +59,7 @@
     "timeMonth": 2029,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2025-12-23": 152,
+      "2025-12-23": 166,
       "2025-07-21": 200,
       "2025-06-22": 16,
       "2025-02-18": 42
@@ -80,7 +80,7 @@
     "timeDay": 268,
     "timeWeek": 175,
     "timeMonth": 301,
-    "timeYear": 1607,
+    "timeYear": 1609,
     "dailyMinutesDown": {
       "2025-11-17": 55,
       "2025-11-06": 23,
@@ -134,15 +134,15 @@
     "url": "https://gh.chapro.xyz",
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "38.32%",
-    "uptimeWeek": "42.93%",
-    "uptimeMonth": "86.87%",
-    "uptimeYear": "98.91%",
+    "uptimeDay": "39.25%",
+    "uptimeWeek": "44.43%",
+    "uptimeMonth": "87.21%",
+    "uptimeYear": "98.93%",
     "time": 321,
-    "timeDay": 313,
-    "timeWeek": 316,
+    "timeDay": 312,
+    "timeWeek": 315,
     "timeMonth": 372,
     "timeYear": 320,
     "dailyMinutesDown": {
@@ -152,8 +152,7 @@
       "2025-12-20": 846,
       "2025-12-19": 717,
       "2025-12-18": 925,
-      "2025-12-17": 959,
-      "2025-12-16": 3
+      "2025-12-17": 810
     }
   },
   {
@@ -171,7 +170,7 @@
     "timeDay": 1117,
     "timeWeek": 574,
     "timeMonth": 796,
-    "timeYear": 10636,
+    "timeYear": 10648,
     "dailyMinutesDown": {
       "2025-10-28": 37,
       "2025-06-13": 933,
@@ -199,7 +198,7 @@
     "timeDay": 2263,
     "timeWeek": 1923,
     "timeMonth": 2746,
-    "timeYear": 5539,
+    "timeYear": 5546,
     "dailyMinutesDown": {
       "2025-12-22": 27,
       "2025-12-05": 54,
@@ -378,19 +377,19 @@
     "url": "https://hong-di.eu.org/",
     "icon": "https://raw.githubusercontent.com/redlib-org/redlib/main/static/favicon.png",
     "slug": "reddit-mirror-redlib",
-    "status": "up",
+    "status": "down",
     "uptime": "97.44%",
-    "uptimeDay": "45.59%",
+    "uptimeDay": "46.52%",
     "uptimeWeek": "55.28%",
     "uptimeMonth": "47.86%",
-    "uptimeYear": "95.10%",
-    "time": 2620,
-    "timeDay": 1480,
-    "timeWeek": 1679,
-    "timeMonth": 1497,
+    "uptimeYear": "95.11%",
+    "time": 2615,
+    "timeDay": 1463,
+    "timeWeek": 1675,
+    "timeMonth": 1495,
     "timeYear": 2810,
     "dailyMinutesDown": {
-      "2025-12-23": 723,
+      "2025-12-23": 724,
       "2025-12-22": 955,
       "2025-12-21": 397,
       "2025-12-20": 443,
@@ -426,8 +425,7 @@
       "2025-11-16": 46,
       "2025-11-15": 758,
       "2025-11-14": 1440,
-      "2025-11-13": 243,
-      "2025-11-12": 17
+      "2025-11-13": 243
     }
   },
   {
