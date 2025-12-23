@@ -49,9 +49,9 @@
     "slug": "searcha",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "93.55%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "92.53%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.93%",
     "time": 1337,
     "timeDay": 14205,
@@ -59,7 +59,7 @@
     "timeMonth": 1987,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2025-12-23": 93,
+      "2025-12-23": 108,
       "2025-07-21": 200,
       "2025-06-22": 16,
       "2025-02-18": 42
@@ -136,9 +136,9 @@
     "slug": "git-hub-mirror",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "38.92%",
-    "uptimeWeek": "43.06%",
-    "uptimeMonth": "86.90%",
+    "uptimeDay": "39.65%",
+    "uptimeWeek": "42.91%",
+    "uptimeMonth": "86.86%",
     "uptimeYear": "98.91%",
     "time": 321,
     "timeDay": 310,
@@ -146,14 +146,14 @@
     "timeMonth": 376,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2025-12-23": 843,
+      "2025-12-23": 833,
       "2025-12-22": 650,
       "2025-12-21": 795,
       "2025-12-20": 846,
       "2025-12-19": 717,
       "2025-12-18": 925,
       "2025-12-17": 959,
-      "2025-12-16": 3
+      "2025-12-16": 29
     }
   },
   {
@@ -378,19 +378,19 @@
     "url": "https://hong-di.eu.org/",
     "icon": "https://raw.githubusercontent.com/redlib-org/redlib/main/static/favicon.png",
     "slug": "reddit-mirror-redlib",
-    "status": "up",
+    "status": "down",
     "uptime": "97.44%",
-    "uptimeDay": "42.98%",
-    "uptimeWeek": "55.49%",
+    "uptimeDay": "43.96%",
+    "uptimeWeek": "55.48%",
     "uptimeMonth": "47.91%",
-    "uptimeYear": "95.10%",
+    "uptimeYear": "95.11%",
     "time": 2619,
-    "timeDay": 1527,
-    "timeWeek": 1688,
-    "timeMonth": 1501,
-    "timeYear": 2814,
+    "timeDay": 1494,
+    "timeWeek": 1682,
+    "timeMonth": 1498,
+    "timeYear": 2812,
     "dailyMinutesDown": {
-      "2025-12-23": 702,
+      "2025-12-23": 703,
       "2025-12-22": 955,
       "2025-12-21": 397,
       "2025-12-20": 443,
@@ -427,8 +427,7 @@
       "2025-11-15": 758,
       "2025-11-14": 1440,
       "2025-11-13": 243,
-      "2025-11-12": 17,
-      "2025-11-11": 30
+      "2025-11-12": 17
     }
   },
   {
