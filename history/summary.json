@@ -14,7 +14,7 @@
     "timeDay": 595,
     "timeWeek": 500,
     "timeMonth": 592,
-    "timeYear": 537,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2025-06-03": 573,
       "2025-06-02": 336
@@ -35,7 +35,7 @@
     "timeDay": 884,
     "timeWeek": 694,
     "timeMonth": 708,
-    "timeYear": 723,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2025-05-01": 20,
       "2025-04-23": 16,
@@ -81,7 +81,7 @@
     "timeDay": 211,
     "timeWeek": 280,
     "timeMonth": 294,
-    "timeYear": 1590,
+    "timeYear": 1593,
     "dailyMinutesDown": {
       "2025-11-17": 55,
       "2025-11-06": 23,
@@ -141,7 +141,7 @@
     "uptimeMonth": "88.12%",
     "uptimeYear": "99.01%",
     "time": 320,
-    "timeDay": 306,
+    "timeDay": 307,
     "timeWeek": 301,
     "timeMonth": 358,
     "timeYear": 319,
@@ -170,7 +170,7 @@
     "timeDay": 568,
     "timeWeek": 1108,
     "timeMonth": 906,
-    "timeYear": 10626,
+    "timeYear": 10637,
     "dailyMinutesDown": {
       "2025-10-28": 37,
       "2025-06-13": 933,
@@ -198,7 +198,7 @@
     "timeDay": 2416,
     "timeWeek": 2071,
     "timeMonth": 2259,
-    "timeYear": 5523,
+    "timeYear": 5530,
     "dailyMinutesDown": {
       "2025-12-22": 27,
       "2025-12-05": 54,
@@ -377,19 +377,19 @@
     "url": "https://hong-di.eu.org/",
     "icon": "https://raw.githubusercontent.com/redlib-org/redlib/main/static/favicon.png",
     "slug": "reddit-mirror-redlib",
-    "status": "up",
-    "uptime": "97.60%",
-    "uptimeDay": "87.16%",
-    "uptimeWeek": "65.68%",
-    "uptimeMonth": "44.55%",
-    "uptimeYear": "95.38%",
-    "time": 2657,
-    "timeDay": 2785,
-    "timeWeek": 1674,
-    "timeMonth": 1624,
+    "status": "down",
+    "uptime": "97.61%",
+    "uptimeDay": "87.13%",
+    "uptimeWeek": "65.69%",
+    "uptimeMonth": "44.67%",
+    "uptimeYear": "95.39%",
+    "time": 2658,
+    "timeDay": 2795,
+    "timeWeek": 1676,
+    "timeMonth": 1621,
     "timeYear": 2749,
     "dailyMinutesDown": {
-      "2025-12-28": 185,
+      "2025-12-28": 186,
       "2025-12-27": 203,
       "2025-12-26": 226,
       "2025-12-25": 514,
@@ -414,8 +414,7 @@
       "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
-      "2025-12-03": 562,
-      "2025-12-02": 55
+      "2025-12-03": 562
     }
   },
   {
