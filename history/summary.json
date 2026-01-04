@@ -136,9 +136,9 @@
     "slug": "git-hub-mirror",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "31.95%",
-    "uptimeWeek": "49.07%",
-    "uptimeMonth": "88.28%",
+    "uptimeDay": "32.85%",
+    "uptimeWeek": "48.96%",
+    "uptimeMonth": "88.25%",
     "uptimeYear": "99.02%",
     "time": 318,
     "timeDay": 293,
@@ -146,14 +146,14 @@
     "timeMonth": 338,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2026-01-04": 506,
+      "2026-01-04": 493,
       "2026-01-03": 915,
       "2026-01-02": 810,
       "2026-01-01": 756,
       "2025-12-31": 575,
       "2025-12-30": 853,
       "2025-12-29": 712,
-      "2025-12-28": 8
+      "2025-12-28": 32
     }
   },
   {
@@ -378,19 +378,19 @@
     "url": "https://hong-di.eu.org/",
     "icon": "https://raw.githubusercontent.com/redlib-org/redlib/main/static/favicon.png",
     "slug": "reddit-mirror-redlib",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "84.47%",
+    "uptimeDay": "84.78%",
     "uptimeWeek": "65.76%",
-    "uptimeMonth": "84.75%",
-    "uptimeYear": "98.73%",
+    "uptimeMonth": "84.83%",
+    "uptimeYear": "98.74%",
     "time": 2555,
-    "timeDay": 1401,
-    "timeWeek": 1616,
-    "timeMonth": 1642,
-    "timeYear": 2638,
+    "timeDay": 1351,
+    "timeWeek": 1614,
+    "timeMonth": 1639,
+    "timeYear": 2636,
     "dailyMinutesDown": {
-      "2026-01-04": 93,
+      "2026-01-04": 94,
       "2026-01-03": 336,
       "2026-01-02": 166,
       "2026-01-01": 926,
@@ -403,7 +403,7 @@
       "2025-12-25": 514,
       "2025-12-24": 588,
       "2025-12-23": 742,
-      "2025-12-22": 808
+      "2025-12-22": 774
     }
   },
   {
