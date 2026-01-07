@@ -134,12 +134,12 @@
     "url": "https://gh.chapro.xyz",
     "icon": "https://raw.githubusercontent.com/mchaNetwork/github-proxy/trunk/src/favicon.svg",
     "slug": "git-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "27.24%",
-    "uptimeWeek": "45.38%",
-    "uptimeMonth": "87.43%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "27.70%",
+    "uptimeWeek": "45.98%",
+    "uptimeMonth": "87.57%",
+    "uptimeYear": "98.96%",
     "time": 319,
     "timeDay": 280,
     "timeWeek": 314,
@@ -152,7 +152,7 @@
       "2026-01-04": 832,
       "2026-01-03": 915,
       "2026-01-02": 810,
-      "2026-01-01": 460
+      "2026-01-01": 400
     }
   },
   {
@@ -379,7 +379,7 @@
     "slug": "reddit-mirror-redlib",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "49.21%",
+    "uptimeDay": "49.71%",
     "uptimeWeek": "63.03%",
     "uptimeMonth": "86.26%",
     "uptimeYear": "98.85%",
