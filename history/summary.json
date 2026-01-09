@@ -5,7 +5,7 @@
     "icon": "https://avatars.githubusercontent.com/u/21154023",
     "slug": "homepage",
     "status": "up",
-    "uptime": "86.33%",
+    "uptime": "86.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -139,8 +139,8 @@
     "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "39.32%",
-    "uptimeWeek": "43.11%",
-    "uptimeMonth": "86.91%",
+    "uptimeWeek": "42.96%",
+    "uptimeMonth": "86.87%",
     "uptimeYear": "98.91%",
     "time": 318,
     "timeDay": 306,
@@ -148,7 +148,7 @@
     "timeMonth": 314,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2026-01-09": 333,
+      "2026-01-09": 348,
       "2026-01-08": 761,
       "2026-01-07": 1090,
       "2026-01-06": 771,
@@ -382,9 +382,9 @@
     "slug": "reddit-mirror-redlib",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "74.75%",
-    "uptimeWeek": "68.45%",
-    "uptimeMonth": "86.30%",
+    "uptimeDay": "74.70%",
+    "uptimeWeek": "68.44%",
+    "uptimeMonth": "86.33%",
     "uptimeYear": "98.86%",
     "time": 2545,
     "timeDay": 2047,
@@ -392,7 +392,7 @@
     "timeMonth": 1772,
     "timeYear": 2617,
     "dailyMinutesDown": {
-      "2026-01-09": 53,
+      "2026-01-09": 54,
       "2026-01-08": 310,
       "2026-01-07": 588,
       "2026-01-06": 868,
@@ -403,8 +403,7 @@
       "2026-01-01": 926,
       "2025-12-31": 599,
       "2025-12-30": 726,
-      "2025-12-29": 557,
-      "2025-12-28": 18
+      "2025-12-29": 557
     }
   },
   {
